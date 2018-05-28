@@ -1,0 +1,57 @@
+Piso 1:
+
+2 Baños con 2 toma corrientes con 2 luminarias y 2 interruptores cada uno.
+
+Administracion con 6 toma corrientes, 4 luminarias y 2 interruptores.
+
+Marketing tiene 4 toma corrientes, 2 luminarias y 1 interruptor.
+
+Capacitacion/Presentacion 9 toma corrientes, 4 luminarias y 2 interruptores.
+
+Comercial tiene 5 toma corrientes, 2 luminarias y 1 interruptor.
+
+2 Salas de Reunion con 1 toma corriente, 1 luminaria y 1 interruptor cada uno.
+
+Pasillo tiene 12 lumiarias y el interruptor de las mismas desde el T3
+
+Total: 30 toma corrientes, 30 luminarias y 13 interruptores
+
+Piso 2:
+
+2 Baños con 1 toma corrientes con 1 luminarias y 1 interruptores cada uno.
+
+Centro medico con 1 toma corriente, 1 luminaria y 1 interruptor.
+
+Almacen de Limpieza con 1 toma corriente, 1 luminaria y 1 interruptor.
+
+Produccion con 10 toma corrientes, 4 luminarias y 2 interruptores.
+
+Sala de Recreacion con 4 toma corrientes, 4 luminarias y 2 interruptores.
+
+Desarrollo Tecnologico con 6 toma corrientes, 4 luminarias y 2 interruptores.
+
+Cocina con 2 toma corrientes, 1 luminaria y 1 interruptor.
+
+Comedor con 4 toma corrientes, 6 luminarias y 2 interruptores.
+
+Pasillo con 11 luminarias y un interruptor que esta en el T2
+
+Total: 33 toma corrientes, 36 luminarias, 14 interruptores.
+
+Planta Baja:
+
+2 Baños con 1 toma corrientes, con 1 luminarias y 1 interruptores cada uno.
+
+Cocina con 2 toma corrientes, 4 luminarias y 1 interruptor.
+
+Centro medico con 1 toma corriente, 1 luminaria y 1 interruptor.
+
+Almacen de Limpieza con 1 toma corriente, 1 luminaria y 1 interruptor.
+
+Comedor con 4 toma corrientes, 6 luminarias y 2 interruptores.
+
+Call Center con 4 toma corrientes, 4 luminarias y 1 interruptor.
+
+Pasillo con 8 luminarias y 1 interruptor en el T1.
+
+Total: 14 toma corrientes, 24 luminarias y 9 interruptores.
