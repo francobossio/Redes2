@@ -16,7 +16,7 @@
    viewBox="0 0 744.09448819 1052.3622047"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="datos.svg">
   <defs
      id="defs4">
@@ -197,16 +197,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="1277.3094"
-     inkscape:cy="251.63515"
+     inkscape:zoom="0.5"
+     inkscape:cx="1328.5719"
+     inkscape:cy="765.42566"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1301"
-     inkscape:window-height="744"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
+     inkscape:window-width="1299"
+     inkscape:window-height="713"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="false" />
   <metadata
@@ -292,14 +292,14 @@
          id="rect4174-3"
          style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5.9000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <image
-         sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/ascensor.png"
+         sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/ascensor.png"
          xlink:href="../Mi carpeta de Redes 2/img/ascensor.png"
-         width="84.94886"
-         height="84.94886"
-         preserveAspectRatio="none"
-         id="image4176-7"
+         y="1589.4657"
          x="-7.5317307"
-         y="1589.4657" />
+         id="image4176-7"
+         preserveAspectRatio="none"
+         height="84.94886"
+         width="84.94886" />
     </g>
     <text
        xml:space="preserve"
@@ -348,14 +348,14 @@
          id="rect4174-3-9"
          style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5.9000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <image
-         sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/ascensor.png"
+         sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/ascensor.png"
          xlink:href="../Mi carpeta de Redes 2/img/ascensor.png"
-         y="1589.4657"
-         x="-7.5317307"
-         id="image4176-7-2"
-         preserveAspectRatio="none"
+         width="84.94886"
          height="84.94886"
-         width="84.94886" />
+         preserveAspectRatio="none"
+         id="image4176-7-2"
+         x="-7.5317307"
+         y="1589.4657" />
     </g>
     <ellipse
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:4.20398664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -983,14 +983,14 @@
          id="rect3596-0"
          style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5.9000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <image
-         sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/ascensor.png"
+         sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/ascensor.png"
          xlink:href="../Mi carpeta de Redes 2/img/ascensor.png"
-         width="84.94886"
-         height="84.94886"
-         preserveAspectRatio="none"
-         id="image4154-4"
+         y="1589.4657"
          x="1272.4683"
-         y="1589.4657" />
+         id="image4154-4"
+         preserveAspectRatio="none"
+         height="84.94886"
+         width="84.94886" />
     </g>
     <text
        id="text3598"
@@ -1022,8 +1022,7 @@
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="740"
        y="1552.8622"
-       id="text3607"
-       sodipodi:linespacing="0%"><tspan
+       id="text3607"><tspan
          sodipodi:role="line"
          id="tspan3609"
          x="740"
@@ -1031,14 +1030,13 @@
          style="font-size:40px;line-height:1.25;font-family:sans-serif">SERVIDORES</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:11.1209507px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="1512.2876"
        y="-1762.6494"
        id="text3611"
-       transform="matrix(0.01622261,0.9998684,-0.9998684,0.01622261,0,0)"
+       transform="rotate(89.070472)"
        inkscape:transform-center-x="-159.28448"
-       inkscape:transform-center-y="-23.168691"
-       sodipodi:linespacing="0%"><tspan
+       inkscape:transform-center-y="-23.168691"><tspan
          sodipodi:role="line"
          id="tspan3613"
          x="1512.2876"
@@ -1114,24 +1112,24 @@
              style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.30389333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         </g>
         <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/notebook.png"
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/notebook.png"
            xlink:href="../Mi carpeta de Redes 2/img/notebook.png"
-           y="706.23022"
-           x="-1667.653"
-           id="image3634-2-0-8"
-           preserveAspectRatio="none"
-           height="16.424368"
+           transform="matrix(-0.9999479,0.0102079,0.00905002,0.99995905,0,0)"
            width="15.464911"
-           transform="matrix(-0.9999479,0.0102079,0.00905002,0.99995905,0,0)" />
-        <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla.png"
-           xlink:href="../Mi carpeta de Redes 2/img/silla.png"
-           y="691.82245"
-           x="1674.4967"
-           id="image3705-9-3-1"
+           height="16.424368"
            preserveAspectRatio="none"
+           id="image3634-2-0-8"
+           x="-1667.653"
+           y="706.23022" />
+        <image
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla.png"
+           xlink:href="../Mi carpeta de Redes 2/img/silla.png"
+           width="17.60117"
            height="22.559301"
-           width="17.60117" />
+           preserveAspectRatio="none"
+           id="image3705-9-3-1"
+           x="1674.4967"
+           y="691.82245" />
       </g>
       <g
          id="g4921-1-2"
@@ -1162,24 +1160,24 @@
              style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.30389333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         </g>
         <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/notebook.png"
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/notebook.png"
            xlink:href="../Mi carpeta de Redes 2/img/notebook.png"
-           y="706.23022"
-           x="-1667.653"
-           id="image3634-2-6-8"
-           preserveAspectRatio="none"
-           height="16.424368"
+           transform="matrix(-0.9999479,0.0102079,0.00905002,0.99995905,0,0)"
            width="15.464911"
-           transform="matrix(-0.9999479,0.0102079,0.00905002,0.99995905,0,0)" />
-        <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla.png"
-           xlink:href="../Mi carpeta de Redes 2/img/silla.png"
-           y="691.82245"
-           x="1674.4967"
-           id="image3705-9-1-0"
+           height="16.424368"
            preserveAspectRatio="none"
+           id="image3634-2-6-8"
+           x="-1667.653"
+           y="706.23022" />
+        <image
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla.png"
+           xlink:href="../Mi carpeta de Redes 2/img/silla.png"
+           width="17.60117"
            height="22.559301"
-           width="17.60117" />
+           preserveAspectRatio="none"
+           id="image3705-9-1-0"
+           x="1674.4967"
+           y="691.82245" />
       </g>
       <g
          id="g4921-5-2"
@@ -1210,24 +1208,24 @@
              style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.30389333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         </g>
         <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/notebook.png"
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/notebook.png"
            xlink:href="../Mi carpeta de Redes 2/img/notebook.png"
-           y="706.23022"
-           x="-1667.653"
-           id="image3634-2-9-1"
-           preserveAspectRatio="none"
-           height="16.424368"
+           transform="matrix(-0.9999479,0.0102079,0.00905002,0.99995905,0,0)"
            width="15.464911"
-           transform="matrix(-0.9999479,0.0102079,0.00905002,0.99995905,0,0)" />
-        <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla.png"
-           xlink:href="../Mi carpeta de Redes 2/img/silla.png"
-           y="691.82245"
-           x="1674.4967"
-           id="image3705-9-37-0"
+           height="16.424368"
            preserveAspectRatio="none"
+           id="image3634-2-9-1"
+           x="-1667.653"
+           y="706.23022" />
+        <image
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla.png"
+           xlink:href="../Mi carpeta de Redes 2/img/silla.png"
+           width="17.60117"
            height="22.559301"
-           width="17.60117" />
+           preserveAspectRatio="none"
+           id="image3705-9-37-0"
+           x="1674.4967"
+           y="691.82245" />
       </g>
       <g
          id="g4921-52-8"
@@ -1258,24 +1256,24 @@
              style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.30389333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         </g>
         <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/notebook.png"
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/notebook.png"
            xlink:href="../Mi carpeta de Redes 2/img/notebook.png"
-           y="706.23022"
-           x="-1667.653"
-           id="image3634-2-4-6"
-           preserveAspectRatio="none"
-           height="16.424368"
+           transform="matrix(-0.9999479,0.0102079,0.00905002,0.99995905,0,0)"
            width="15.464911"
-           transform="matrix(-0.9999479,0.0102079,0.00905002,0.99995905,0,0)" />
-        <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla.png"
-           xlink:href="../Mi carpeta de Redes 2/img/silla.png"
-           y="691.82245"
-           x="1674.4967"
-           id="image3705-9-30-2"
+           height="16.424368"
            preserveAspectRatio="none"
+           id="image3634-2-4-6"
+           x="-1667.653"
+           y="706.23022" />
+        <image
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla.png"
+           xlink:href="../Mi carpeta de Redes 2/img/silla.png"
+           width="17.60117"
            height="22.559301"
-           width="17.60117" />
+           preserveAspectRatio="none"
+           id="image3705-9-30-2"
+           x="1674.4967"
+           y="691.82245" />
       </g>
       <g
          id="g4921-8-5"
@@ -1306,24 +1304,24 @@
              style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.30389333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         </g>
         <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/notebook.png"
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/notebook.png"
            xlink:href="../Mi carpeta de Redes 2/img/notebook.png"
-           y="706.23022"
-           x="-1667.653"
-           id="image3634-2-49-4"
-           preserveAspectRatio="none"
-           height="16.424368"
+           transform="matrix(-0.9999479,0.0102079,0.00905002,0.99995905,0,0)"
            width="15.464911"
-           transform="matrix(-0.9999479,0.0102079,0.00905002,0.99995905,0,0)" />
-        <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla.png"
-           xlink:href="../Mi carpeta de Redes 2/img/silla.png"
-           y="691.82245"
-           x="1674.4967"
-           id="image3705-9-2-7"
+           height="16.424368"
            preserveAspectRatio="none"
+           id="image3634-2-49-4"
+           x="-1667.653"
+           y="706.23022" />
+        <image
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla.png"
+           xlink:href="../Mi carpeta de Redes 2/img/silla.png"
+           width="17.60117"
            height="22.559301"
-           width="17.60117" />
+           preserveAspectRatio="none"
+           id="image3705-9-2-7"
+           x="1674.4967"
+           y="691.82245" />
       </g>
       <g
          id="g4921-6-2"
@@ -1354,24 +1352,24 @@
              style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.30389333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         </g>
         <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/notebook.png"
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/notebook.png"
            xlink:href="../Mi carpeta de Redes 2/img/notebook.png"
-           y="706.23022"
-           x="-1667.653"
-           id="image3634-2-95-9"
-           preserveAspectRatio="none"
-           height="16.424368"
+           transform="matrix(-0.9999479,0.0102079,0.00905002,0.99995905,0,0)"
            width="15.464911"
-           transform="matrix(-0.9999479,0.0102079,0.00905002,0.99995905,0,0)" />
-        <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla.png"
-           xlink:href="../Mi carpeta de Redes 2/img/silla.png"
-           y="691.82245"
-           x="1674.4967"
-           id="image3705-9-0-9"
+           height="16.424368"
            preserveAspectRatio="none"
+           id="image3634-2-95-9"
+           x="-1667.653"
+           y="706.23022" />
+        <image
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla.png"
+           xlink:href="../Mi carpeta de Redes 2/img/silla.png"
+           width="17.60117"
            height="22.559301"
-           width="17.60117" />
+           preserveAspectRatio="none"
+           id="image3705-9-0-9"
+           x="1674.4967"
+           y="691.82245" />
       </g>
       <g
          id="g4921-7-0"
@@ -1402,24 +1400,24 @@
              style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.30389333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         </g>
         <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/notebook.png"
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/notebook.png"
            xlink:href="../Mi carpeta de Redes 2/img/notebook.png"
-           y="706.23022"
-           x="-1667.653"
-           id="image3634-2-61-1"
-           preserveAspectRatio="none"
-           height="16.424368"
+           transform="matrix(-0.9999479,0.0102079,0.00905002,0.99995905,0,0)"
            width="15.464911"
-           transform="matrix(-0.9999479,0.0102079,0.00905002,0.99995905,0,0)" />
-        <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla.png"
-           xlink:href="../Mi carpeta de Redes 2/img/silla.png"
-           y="691.82245"
-           x="1674.4967"
-           id="image3705-9-06-0"
+           height="16.424368"
            preserveAspectRatio="none"
+           id="image3634-2-61-1"
+           x="-1667.653"
+           y="706.23022" />
+        <image
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla.png"
+           xlink:href="../Mi carpeta de Redes 2/img/silla.png"
+           width="17.60117"
            height="22.559301"
-           width="17.60117" />
+           preserveAspectRatio="none"
+           id="image3705-9-06-0"
+           x="1674.4967"
+           y="691.82245" />
       </g>
       <g
          id="g4921-94-3"
@@ -1450,24 +1448,24 @@
              style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.30389333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         </g>
         <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/notebook.png"
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/notebook.png"
            xlink:href="../Mi carpeta de Redes 2/img/notebook.png"
-           y="706.23022"
-           x="-1667.653"
-           id="image3634-2-7-1"
-           preserveAspectRatio="none"
-           height="16.424368"
+           transform="matrix(-0.9999479,0.0102079,0.00905002,0.99995905,0,0)"
            width="15.464911"
-           transform="matrix(-0.9999479,0.0102079,0.00905002,0.99995905,0,0)" />
-        <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla.png"
-           xlink:href="../Mi carpeta de Redes 2/img/silla.png"
-           y="691.82245"
-           x="1674.4967"
-           id="image3705-9-11-9"
+           height="16.424368"
            preserveAspectRatio="none"
+           id="image3634-2-7-1"
+           x="-1667.653"
+           y="706.23022" />
+        <image
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla.png"
+           xlink:href="../Mi carpeta de Redes 2/img/silla.png"
+           width="17.60117"
            height="22.559301"
-           width="17.60117" />
+           preserveAspectRatio="none"
+           id="image3705-9-11-9"
+           x="1674.4967"
+           y="691.82245" />
       </g>
       <g
          transform="matrix(0.22798944,0,0,0.22798944,1118.3112,278.78682)"
@@ -1593,14 +1591,14 @@
          id="rect5444-5"
          style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.96611905;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <image
-         sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla_empleado.jpg"
+         sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla_empleado.jpg"
          xlink:href="../Mi carpeta de Redes 2/img/silla_empleado.jpg"
-         y="417.61023"
-         x="887.6629"
-         id="image5448-7"
-         preserveAspectRatio="none"
+         width="21.310453"
          height="23.189428"
-         width="21.310453" />
+         preserveAspectRatio="none"
+         id="image5448-7"
+         x="887.6629"
+         y="417.61023" />
       <rect
          transform="matrix(-0.00392539,-0.9999923,0.9999892,-0.00464812,0,0)"
          y="883.82465"
@@ -1646,42 +1644,42 @@
        x="980.37067"
        y="608.39282" />
     <image
-       sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/notebook.png"
+       sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/notebook.png"
        xlink:href="../Mi carpeta de Redes 2/img/notebook.png"
-       transform="matrix(-0.99993831,0.01110784,0.00831677,0.99996542,0,0)"
-       width="17.138453"
-       height="19.806295"
-       preserveAspectRatio="none"
-       id="image5571-0"
+       y="619.73676"
        x="-974.93591"
-       y="619.73676" />
+       id="image5571-0"
+       preserveAspectRatio="none"
+       height="19.806295"
+       width="17.138453"
+       transform="matrix(-0.99993831,0.01110784,0.00831677,0.99996542,0,0)" />
     <image
-       sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla.png"
+       sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla.png"
        xlink:href="../Mi carpeta de Redes 2/img/silla.png"
-       width="19.505699"
-       height="27.204641"
-       preserveAspectRatio="none"
-       id="image5573-6"
+       y="612.42834"
        x="982.92566"
-       y="612.42834" />
-    <image
-       sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/telefono.png"
-       xlink:href="../Mi carpeta de Redes 2/img/telefono.png"
-       y="628.8819"
-       x="963.05731"
-       id="image5575-8"
+       id="image5573-6"
        preserveAspectRatio="none"
+       height="27.204641"
+       width="19.505699" />
+    <image
+       sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/telefono.png"
+       xlink:href="../Mi carpeta de Redes 2/img/telefono.png"
+       width="15.851609"
        height="17.249269"
-       width="15.851609" />
-    <image
-       sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/telefono.png"
-       xlink:href="../Mi carpeta de Redes 2/img/telefono.png"
-       width="22.284418"
-       height="24.249269"
        preserveAspectRatio="none"
-       id="image4411"
+       id="image5575-8"
+       x="963.05731"
+       y="628.8819" />
+    <image
+       sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/telefono.png"
+       xlink:href="../Mi carpeta de Redes 2/img/telefono.png"
+       y="206.3819"
        x="1341.2057"
-       y="206.3819" />
+       id="image4411"
+       preserveAspectRatio="none"
+       height="24.249269"
+       width="22.284418" />
     <g
        transform="translate(-10.468567,262.46603)"
        id="g4349">
@@ -1698,14 +1696,14 @@
              x="884.19629"
              y="396.2583" />
           <image
-             sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla_empleado.jpg"
+             sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla_empleado.jpg"
              xlink:href="../Mi carpeta de Redes 2/img/silla_empleado.jpg"
-             y="417.61023"
-             x="887.6629"
-             id="image4357"
-             preserveAspectRatio="none"
+             width="21.310453"
              height="23.189428"
-             width="21.310453" />
+             preserveAspectRatio="none"
+             id="image4357"
+             x="887.6629"
+             y="417.61023" />
           <rect
              style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.64636606;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              id="rect4359"
@@ -1723,14 +1721,14 @@
              style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.64881611;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         </g>
         <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/com.appsdmclick.coloresconectorrj45.png"
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/com.appsdmclick.coloresconectorrj45.png"
            xlink:href="../Mi carpeta de Redes 2/img/com.appsdmclick.coloresconectorrj45.png"
-           y="275.08005"
-           x="915.94189"
-           id="image4363"
-           preserveAspectRatio="none"
+           width="3.6891422"
            height="3.6891422"
-           width="3.6891422" />
+           preserveAspectRatio="none"
+           id="image4363"
+           x="915.94189"
+           y="275.08005" />
       </g>
       <rect
          style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.47454;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1771,14 +1769,14 @@
              id="rect4374"
              style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.96611905;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
           <image
-             sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla_empleado.jpg"
+             sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla_empleado.jpg"
              xlink:href="../Mi carpeta de Redes 2/img/silla_empleado.jpg"
-             width="21.310453"
-             height="23.189428"
-             preserveAspectRatio="none"
-             id="image4376"
+             y="417.61023"
              x="887.6629"
-             y="417.61023" />
+             id="image4376"
+             preserveAspectRatio="none"
+             height="23.189428"
+             width="21.310453" />
           <rect
              transform="matrix(-0.00392539,-0.9999923,0.9999892,-0.00464812,0,0)"
              y="883.82465"
@@ -1796,14 +1794,14 @@
              ry="5.2134547" />
         </g>
         <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/com.appsdmclick.coloresconectorrj45.png"
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/com.appsdmclick.coloresconectorrj45.png"
            xlink:href="../Mi carpeta de Redes 2/img/com.appsdmclick.coloresconectorrj45.png"
-           width="3.6891422"
-           height="3.6891422"
-           preserveAspectRatio="none"
-           id="image4382"
+           y="275.08005"
            x="915.94189"
-           y="275.08005" />
+           id="image4382"
+           preserveAspectRatio="none"
+           height="3.6891422"
+           width="3.6891422" />
       </g>
       <rect
          y="302.32101"
@@ -1849,15 +1847,15 @@
        x="1242.4347"
        y="728.97571" />
     <image
-       sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla_empleado.jpg"
+       sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla_empleado.jpg"
        xlink:href="../Mi carpeta de Redes 2/img/silla_empleado.jpg"
-       y="751.99261"
-       x="-1283.1135"
-       id="image5309-1"
-       preserveAspectRatio="none"
-       height="24.664808"
+       transform="scale(-1,1)"
        width="21.926565"
-       transform="scale(-1,1)" />
+       height="24.664808"
+       preserveAspectRatio="none"
+       id="image5309-1"
+       x="-1283.1135"
+       y="751.99261" />
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.71560079;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect5315-3"
@@ -1867,17 +1865,17 @@
        y="1256.6947"
        transform="matrix(-0.00425297,-0.99999096,0.9999908,-0.00429011,0,0)" />
     <image
-       sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/telefono.png"
+       sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/telefono.png"
        xlink:href="../Mi carpeta de Redes 2/img/telefono.png"
-       inkscape:transform-center-y="-28.710938"
-       inkscape:transform-center-x="-25"
-       transform="matrix(0.99999636,-0.0026974,0.00267404,0.99999642,0,0)"
-       width="13.252257"
-       height="13.309998"
-       preserveAspectRatio="none"
-       id="image5319-0"
+       y="735.93268"
        x="1285.0319"
-       y="735.93268" />
+       id="image5319-0"
+       preserveAspectRatio="none"
+       height="13.309998"
+       width="13.252257"
+       transform="matrix(0.99999636,-0.0026974,0.00267404,0.99999642,0,0)"
+       inkscape:transform-center-x="-25"
+       inkscape:transform-center-y="-28.710938" />
     <ellipse
        ry="5.5451508"
        rx="1.3802737"
@@ -1914,33 +1912,33 @@
        x="1382.3167"
        y="738.02637" />
     <image
-       sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/notebook.png"
+       sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/notebook.png"
        xlink:href="../Mi carpeta de Redes 2/img/notebook.png"
-       transform="matrix(-0.9999479,0.0102079,0.00905002,0.99995905,0,0)"
-       width="18.024193"
-       height="19.142429"
-       preserveAspectRatio="none"
-       id="image5369-8"
+       y="751.48126"
        x="-1361.4753"
-       y="751.48126" />
+       id="image5369-8"
+       preserveAspectRatio="none"
+       height="19.142429"
+       width="18.024193"
+       transform="matrix(-0.9999479,0.0102079,0.00905002,0.99995905,0,0)" />
     <image
-       sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla.png"
+       sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla.png"
        xlink:href="../Mi carpeta de Redes 2/img/silla.png"
-       width="20.513979"
-       height="26.292629"
-       preserveAspectRatio="none"
-       id="image5371-5"
+       y="740.63464"
        x="1368.8337"
-       y="740.63464" />
-    <image
-       sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/telefono.png"
-       xlink:href="../Mi carpeta de Redes 2/img/telefono.png"
-       y="756.8783"
-       x="1350.3552"
-       id="image5373-6"
+       id="image5371-5"
        preserveAspectRatio="none"
+       height="26.292629"
+       width="20.513979" />
+    <image
+       sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/telefono.png"
+       xlink:href="../Mi carpeta de Redes 2/img/telefono.png"
+       width="16.671003"
        height="16.671003"
-       width="16.671003" />
+       preserveAspectRatio="none"
+       id="image5373-6"
+       x="1350.3552"
+       y="756.8783" />
     <rect
        y="748.95648"
        x="1173.7085"
@@ -1949,16 +1947,16 @@
        id="rect5270-1"
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.6246978;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <image
-       sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/impresora.png"
+       sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/impresora.png"
        xlink:href="../Mi carpeta de Redes 2/img/impresora.png"
-       inkscape:transform-center-y="0.41432038"
-       inkscape:transform-center-x="1.1048543"
-       width="13.901106"
-       height="13.901106"
-       preserveAspectRatio="none"
-       id="image5474-5"
+       y="751.97357"
        x="1186.1926"
-       y="751.97357" />
+       id="image5474-5"
+       preserveAspectRatio="none"
+       height="13.901106"
+       width="13.901106"
+       inkscape:transform-center-x="1.1048543"
+       inkscape:transform-center-y="0.41432038" />
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5.73358965;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect3657-4-9"
@@ -1981,16 +1979,16 @@
        x="1516.761"
        y="678.05023" />
     <image
-       sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/impresora.png"
+       sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/impresora.png"
        xlink:href="../Mi carpeta de Redes 2/img/impresora.png"
-       inkscape:transform-center-y="0.41432038"
-       inkscape:transform-center-x="1.1048543"
-       width="13.901106"
-       height="13.901106"
-       preserveAspectRatio="none"
-       id="image4770-1"
+       y="681.06732"
        x="1529.2451"
-       y="681.06732" />
+       id="image4770-1"
+       preserveAspectRatio="none"
+       height="13.901106"
+       width="13.901106"
+       inkscape:transform-center-x="1.1048543"
+       inkscape:transform-center-y="0.41432038" />
     <rect
        y="744.10797"
        x="1563.3153"
@@ -1999,14 +1997,14 @@
        id="rect4826-3"
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.58907843;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <image
-       sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla_empleado.jpg"
+       sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla_empleado.jpg"
        xlink:href="../Mi carpeta de Redes 2/img/silla_empleado.jpg"
-       width="17.967054"
-       height="17.967054"
-       preserveAspectRatio="none"
-       id="image4830-4"
+       y="760.65137"
        x="1566.2379"
-       y="760.65137" />
+       id="image4830-4"
+       preserveAspectRatio="none"
+       height="17.967054"
+       width="17.967054" />
     <g
        transform="matrix(-0.00259082,-0.60653118,0.60653118,-0.00259082,1128.6507,1740.6388)"
        id="g4832-4">
@@ -2021,27 +2019,27 @@
            id="rect4836-4"
            style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.86130488;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/pc.png"
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/pc.png"
            xlink:href="../Mi carpeta de Redes 2/img/pc.png"
-           transform="matrix(0.00755531,0.99997146,-0.99997146,0.00755531,0,0)"
-           width="31.123028"
-           height="31.123028"
-           preserveAspectRatio="none"
-           id="image4838-7"
+           y="-1636.8181"
            x="744.66376"
-           y="-1636.8181" />
-        <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/telefono.png"
-           xlink:href="../Mi carpeta de Redes 2/img/telefono.png"
-           y="-1635.8054"
-           x="761.14819"
-           id="image4840-6"
+           id="image4838-7"
            preserveAspectRatio="none"
-           height="15.985271"
-           width="15.985271"
-           transform="matrix(-0.00158582,0.99999874,-0.99999874,-0.00158582,0,0)"
+           height="31.123028"
+           width="31.123028"
+           transform="matrix(0.00755531,0.99997146,-0.99997146,0.00755531,0,0)" />
+        <image
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/telefono.png"
+           xlink:href="../Mi carpeta de Redes 2/img/telefono.png"
+           inkscape:transform-center-y="-28.710938"
            inkscape:transform-center-x="-25"
-           inkscape:transform-center-y="-28.710938" />
+           transform="matrix(-0.00158582,0.99999874,-0.99999874,-0.00158582,0,0)"
+           width="15.985271"
+           height="15.985271"
+           preserveAspectRatio="none"
+           id="image4840-6"
+           x="761.14819"
+           y="-1635.8054" />
       </g>
     </g>
     <ellipse
@@ -2066,14 +2064,14 @@
        x="1483.3153"
        y="744.10797" />
     <image
-       sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla_empleado.jpg"
+       sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla_empleado.jpg"
        xlink:href="../Mi carpeta de Redes 2/img/silla_empleado.jpg"
-       y="760.65137"
-       x="1486.2379"
-       id="image4864-6"
-       preserveAspectRatio="none"
+       width="17.967054"
        height="17.967054"
-       width="17.967054" />
+       preserveAspectRatio="none"
+       id="image4864-6"
+       x="1486.2379"
+       y="760.65137" />
     <g
        id="g4866-2"
        transform="matrix(-0.00259082,-0.60653118,0.60653118,-0.00259082,1048.6507,1740.6388)">
@@ -2088,27 +2086,27 @@
            x="1613.265"
            y="730.96368" />
         <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/pc.png"
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/pc.png"
            xlink:href="../Mi carpeta de Redes 2/img/pc.png"
-           y="-1636.8181"
-           x="744.66376"
-           id="image4872-8"
-           preserveAspectRatio="none"
-           height="31.123028"
+           transform="matrix(0.00755531,0.99997146,-0.99997146,0.00755531,0,0)"
            width="31.123028"
-           transform="matrix(0.00755531,0.99997146,-0.99997146,0.00755531,0,0)" />
-        <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/telefono.png"
-           xlink:href="../Mi carpeta de Redes 2/img/telefono.png"
-           inkscape:transform-center-y="-28.710938"
-           inkscape:transform-center-x="-25"
-           transform="matrix(-0.00158582,0.99999874,-0.99999874,-0.00158582,0,0)"
-           width="15.985271"
-           height="15.985271"
+           height="31.123028"
            preserveAspectRatio="none"
-           id="image4874-5"
+           id="image4872-8"
+           x="744.66376"
+           y="-1636.8181" />
+        <image
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/telefono.png"
+           xlink:href="../Mi carpeta de Redes 2/img/telefono.png"
+           y="-1635.8054"
            x="761.14819"
-           y="-1635.8054" />
+           id="image4874-5"
+           preserveAspectRatio="none"
+           height="15.985271"
+           width="15.985271"
+           transform="matrix(-0.00158582,0.99999874,-0.99999874,-0.00158582,0,0)"
+           inkscape:transform-center-x="-25"
+           inkscape:transform-center-y="-28.710938" />
       </g>
     </g>
     <ellipse
@@ -2133,14 +2131,14 @@
        id="rect4882-8"
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.58907843;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <image
-       sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla_empleado.jpg"
+       sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla_empleado.jpg"
        xlink:href="../Mi carpeta de Redes 2/img/silla_empleado.jpg"
-       width="17.967054"
-       height="17.967054"
-       preserveAspectRatio="none"
-       id="image4886-9"
+       y="760.65137"
        x="1416.2379"
-       y="760.65137" />
+       id="image4886-9"
+       preserveAspectRatio="none"
+       height="17.967054"
+       width="17.967054" />
     <g
        transform="matrix(-0.00259082,-0.60653118,0.60653118,-0.00259082,978.65067,1740.6388)"
        id="g4888-7">
@@ -2155,27 +2153,27 @@
            id="rect4892-3"
            style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.86130488;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/pc.png"
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/pc.png"
            xlink:href="../Mi carpeta de Redes 2/img/pc.png"
-           transform="matrix(0.00755531,0.99997146,-0.99997146,0.00755531,0,0)"
-           width="31.123028"
-           height="31.123028"
-           preserveAspectRatio="none"
-           id="image4894-8"
+           y="-1636.8181"
            x="744.66376"
-           y="-1636.8181" />
-        <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/telefono.png"
-           xlink:href="../Mi carpeta de Redes 2/img/telefono.png"
-           y="-1635.8054"
-           x="761.14819"
-           id="image4896-8"
+           id="image4894-8"
            preserveAspectRatio="none"
-           height="15.985271"
-           width="15.985271"
-           transform="matrix(-0.00158582,0.99999874,-0.99999874,-0.00158582,0,0)"
+           height="31.123028"
+           width="31.123028"
+           transform="matrix(0.00755531,0.99997146,-0.99997146,0.00755531,0,0)" />
+        <image
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/telefono.png"
+           xlink:href="../Mi carpeta de Redes 2/img/telefono.png"
+           inkscape:transform-center-y="-28.710938"
            inkscape:transform-center-x="-25"
-           inkscape:transform-center-y="-28.710938" />
+           transform="matrix(-0.00158582,0.99999874,-0.99999874,-0.00158582,0,0)"
+           width="15.985271"
+           height="15.985271"
+           preserveAspectRatio="none"
+           id="image4896-8"
+           x="761.14819"
+           y="-1635.8054" />
       </g>
     </g>
     <ellipse
@@ -2214,33 +2212,33 @@
        id="rect4908-3"
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.42212611;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <image
-       sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/notebook.png"
+       sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/notebook.png"
        xlink:href="../Mi carpeta de Redes 2/img/notebook.png"
-       y="704.58978"
-       x="-1668.6183"
-       id="image3634-2-8"
-       preserveAspectRatio="none"
-       height="16.424368"
+       transform="matrix(-0.9999479,0.0102079,0.00905002,0.99995905,0,0)"
        width="15.464911"
-       transform="matrix(-0.9999479,0.0102079,0.00905002,0.99995905,0,0)" />
+       height="16.424368"
+       preserveAspectRatio="none"
+       id="image3634-2-8"
+       x="-1668.6183"
+       y="704.58978" />
     <image
-       sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla.png"
+       sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla.png"
        xlink:href="../Mi carpeta de Redes 2/img/silla.png"
-       y="690.17218"
-       x="1675.4471"
-       id="image3705-9-6"
-       preserveAspectRatio="none"
+       width="17.60117"
        height="22.559301"
-       width="17.60117" />
-    <image
-       sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/telefono.png"
-       xlink:href="../Mi carpeta de Redes 2/img/telefono.png"
-       width="14.303864"
-       height="14.303864"
        preserveAspectRatio="none"
-       id="image4918-04"
+       id="image3705-9-6"
+       x="1675.4471"
+       y="690.17218" />
+    <image
+       sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/telefono.png"
+       xlink:href="../Mi carpeta de Redes 2/img/telefono.png"
+       y="704.10938"
        x="1659.5924"
-       y="704.10938" />
+       id="image4918-04"
+       preserveAspectRatio="none"
+       height="14.303864"
+       width="14.303864" />
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.58907843;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect5549-8"
@@ -2249,14 +2247,14 @@
        x="1623.3153"
        y="744.10797" />
     <image
-       sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla_empleado.jpg"
+       sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla_empleado.jpg"
        xlink:href="../Mi carpeta de Redes 2/img/silla_empleado.jpg"
-       y="760.65137"
-       x="1626.2379"
-       id="image5553-9"
-       preserveAspectRatio="none"
+       width="17.967054"
        height="17.967054"
-       width="17.967054" />
+       preserveAspectRatio="none"
+       id="image5553-9"
+       x="1626.2379"
+       y="760.65137" />
     <g
        id="g5555-7"
        transform="matrix(-0.00259082,-0.60653118,0.60653118,-0.00259082,1188.6507,1740.6388)">
@@ -2271,27 +2269,27 @@
            x="1613.265"
            y="730.96368" />
         <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/pc.png"
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/pc.png"
            xlink:href="../Mi carpeta de Redes 2/img/pc.png"
-           y="-1636.8181"
-           x="744.66376"
-           id="image5561-4"
-           preserveAspectRatio="none"
-           height="31.123028"
+           transform="matrix(0.00755531,0.99997146,-0.99997146,0.00755531,0,0)"
            width="31.123028"
-           transform="matrix(0.00755531,0.99997146,-0.99997146,0.00755531,0,0)" />
-        <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/telefono.png"
-           xlink:href="../Mi carpeta de Redes 2/img/telefono.png"
-           inkscape:transform-center-y="-28.710938"
-           inkscape:transform-center-x="-25"
-           transform="matrix(-0.00158582,0.99999874,-0.99999874,-0.00158582,0,0)"
-           width="15.985271"
-           height="15.985271"
+           height="31.123028"
            preserveAspectRatio="none"
-           id="image5563-3"
+           id="image5561-4"
+           x="744.66376"
+           y="-1636.8181" />
+        <image
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/telefono.png"
+           xlink:href="../Mi carpeta de Redes 2/img/telefono.png"
+           y="-1635.8054"
            x="761.14819"
-           y="-1635.8054" />
+           id="image5563-3"
+           preserveAspectRatio="none"
+           height="15.985271"
+           width="15.985271"
+           transform="matrix(-0.00158582,0.99999874,-0.99999874,-0.00158582,0,0)"
+           inkscape:transform-center-x="-25"
+           inkscape:transform-center-y="-28.710938" />
       </g>
     </g>
     <ellipse
@@ -2384,86 +2382,86 @@
            y="734.70721"
            ry="1.6517314" />
         <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla.png"
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla.png"
            xlink:href="../Mi carpeta de Redes 2/img/silla.png"
-           y="753.74615"
-           x="1781.9772"
+           width="8.5498848"
+           height="10.958331"
+           preserveAspectRatio="none"
            id="image5646-0"
-           preserveAspectRatio="none"
-           height="10.958331"
-           width="8.5498848" />
-        <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla.png"
-           xlink:href="../Mi carpeta de Redes 2/img/silla.png"
-           width="8.5498848"
-           height="10.958331"
-           preserveAspectRatio="none"
-           id="image4930"
-           x="1763.9772"
+           x="1781.9772"
            y="753.74615" />
         <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla.png"
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla.png"
            xlink:href="../Mi carpeta de Redes 2/img/silla.png"
            y="753.74615"
-           x="1747.9772"
-           id="image4932"
+           x="1763.9772"
+           id="image4930"
            preserveAspectRatio="none"
            height="10.958331"
            width="8.5498848" />
         <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla.png"
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla.png"
            xlink:href="../Mi carpeta de Redes 2/img/silla.png"
            width="8.5498848"
            height="10.958331"
            preserveAspectRatio="none"
-           id="image4934"
-           x="1731.9772"
+           id="image4932"
+           x="1747.9772"
            y="753.74615" />
         <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla.png"
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla.png"
            xlink:href="../Mi carpeta de Redes 2/img/silla.png"
-           y="693.76807"
-           x="1731.1809"
+           y="753.74615"
+           x="1731.9772"
+           id="image4934"
+           preserveAspectRatio="none"
+           height="10.958331"
+           width="8.5498848" />
+        <image
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla.png"
+           xlink:href="../Mi carpeta de Redes 2/img/silla.png"
+           width="8.5498848"
+           height="10.958331"
+           preserveAspectRatio="none"
            id="image4936"
+           x="1731.1809"
+           y="693.76807" />
+        <image
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla.png"
+           xlink:href="../Mi carpeta de Redes 2/img/silla.png"
+           y="721.90887"
+           x="1711.441"
+           id="image4938"
            preserveAspectRatio="none"
            height="10.958331"
            width="8.5498848" />
         <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla.png"
-           xlink:href="../Mi carpeta de Redes 2/img/silla.png"
-           width="8.5498848"
-           height="10.958331"
-           preserveAspectRatio="none"
-           id="image4938"
-           x="1711.441"
-           y="721.90887" />
-        <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla.png"
-           xlink:href="../Mi carpeta de Redes 2/img/silla.png"
-           width="8.5498848"
-           height="10.958331"
-           preserveAspectRatio="none"
-           id="image4940"
-           x="1747.1809"
-           y="693.76807" />
-        <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla.png"
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla.png"
            xlink:href="../Mi carpeta de Redes 2/img/silla.png"
            y="693.76807"
-           x="1763.1809"
-           id="image4942"
+           x="1747.1809"
+           id="image4940"
            preserveAspectRatio="none"
            height="10.958331"
            width="8.5498848" />
         <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla.png"
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla.png"
            xlink:href="../Mi carpeta de Redes 2/img/silla.png"
            width="8.5498848"
            height="10.958331"
            preserveAspectRatio="none"
-           id="image4944"
-           x="1781.1809"
+           id="image4942"
+           x="1763.1809"
            y="693.76807" />
+        <image
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla.png"
+           xlink:href="../Mi carpeta de Redes 2/img/silla.png"
+           y="693.76807"
+           x="1781.1809"
+           id="image4944"
+           preserveAspectRatio="none"
+           height="10.958331"
+           width="8.5498848" />
       </g>
     </g>
     <g
@@ -2557,68 +2555,68 @@
          style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10.68244267;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          transform="matrix(0.0015287,0.99999883,-0.99997991,0.00633851,0,0)" />
       <image
-         sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla.png"
+         sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla.png"
          xlink:href="../Mi carpeta de Redes 2/img/silla.png"
-         width="8.5498848"
-         height="10.958331"
-         preserveAspectRatio="none"
-         id="image4942-9"
+         y="599.01794"
          x="1773.8865"
-         y="599.01794" />
-      <image
-         sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla.png"
-         xlink:href="../Mi carpeta de Redes 2/img/silla.png"
-         width="8.5498848"
-         height="10.958331"
+         id="image4942-9"
          preserveAspectRatio="none"
-         id="image4942-9-2"
+         height="10.958331"
+         width="8.5498848" />
+      <image
+         sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla.png"
+         xlink:href="../Mi carpeta de Redes 2/img/silla.png"
+         y="573.74518"
          x="1742.2418"
-         y="573.74518" />
-      <image
-         sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla.png"
-         xlink:href="../Mi carpeta de Redes 2/img/silla.png"
-         width="8.5498848"
-         height="10.958331"
+         id="image4942-9-2"
          preserveAspectRatio="none"
-         id="image4942-9-2-5"
+         height="10.958331"
+         width="8.5498848" />
+      <image
+         sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla.png"
+         xlink:href="../Mi carpeta de Redes 2/img/silla.png"
+         y="554.07581"
          x="1742.6343"
-         y="554.07581" />
-      <image
-         sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla.png"
-         xlink:href="../Mi carpeta de Redes 2/img/silla.png"
-         width="8.5498848"
-         height="10.958331"
+         id="image4942-9-2-5"
          preserveAspectRatio="none"
-         id="image4942-9-2-5-0"
+         height="10.958331"
+         width="8.5498848" />
+      <image
+         sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla.png"
+         xlink:href="../Mi carpeta de Redes 2/img/silla.png"
+         y="535.14459"
          x="1742.2605"
-         y="535.14459" />
-      <image
-         sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla.png"
-         xlink:href="../Mi carpeta de Redes 2/img/silla.png"
-         width="8.5498848"
-         height="10.958331"
+         id="image4942-9-2-5-0"
          preserveAspectRatio="none"
-         id="image4942-9-2-5-0-5"
+         height="10.958331"
+         width="8.5498848" />
+      <image
+         sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla.png"
+         xlink:href="../Mi carpeta de Redes 2/img/silla.png"
+         y="532.12567"
          x="1807.9493"
-         y="532.12567" />
-      <image
-         sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla.png"
-         xlink:href="../Mi carpeta de Redes 2/img/silla.png"
-         width="8.5498848"
-         height="10.958331"
+         id="image4942-9-2-5-0-5"
          preserveAspectRatio="none"
-         id="image4942-9-2-5-0-5-9"
+         height="10.958331"
+         width="8.5498848" />
+      <image
+         sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla.png"
+         xlink:href="../Mi carpeta de Redes 2/img/silla.png"
+         y="554.34351"
          x="1807.6816"
-         y="554.34351" />
-      <image
-         sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla.png"
-         xlink:href="../Mi carpeta de Redes 2/img/silla.png"
-         width="8.5498848"
-         height="10.958331"
+         id="image4942-9-2-5-0-5-9"
          preserveAspectRatio="none"
-         id="image4942-9-2-5-0-5-9-4"
+         height="10.958331"
+         width="8.5498848" />
+      <image
+         sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla.png"
+         xlink:href="../Mi carpeta de Redes 2/img/silla.png"
+         y="574.62158"
          x="1807.9476"
-         y="574.62158" />
+         id="image4942-9-2-5-0-5-9-4"
+         preserveAspectRatio="none"
+         height="10.958331"
+         width="8.5498848" />
     </g>
     <rect
        y="1380.2789"
@@ -2664,37 +2662,37 @@
        y="1633.162" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="-42.007736"
        y="1728.9132"
-       id="text3991-0"
-       sodipodi:linespacing="125%"><tspan
+       id="text3991-0"><tspan
          sodipodi:role="line"
          id="tspan3993-6"
          x="-42.007736"
-         y="1728.9132">Escalera</tspan></text>
+         y="1728.9132"
+         style="font-size:40px;line-height:1.25;font-family:sans-serif">Escalera</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="260.68842"
        y="2033.9004"
-       id="text3591-8"
-       sodipodi:linespacing="125%"><tspan
+       id="text3591-8"><tspan
          sodipodi:role="line"
          id="tspan3593-7"
          x="260.68842"
-         y="2033.9004">COMEDOR</tspan></text>
+         y="2033.9004"
+         style="font-size:40px;line-height:1.25;font-family:sans-serif">COMEDOR</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="-29.466356"
        y="1317.0424"
-       id="text3603-0"
-       sodipodi:linespacing="125%"><tspan
+       id="text3603-0"><tspan
          sodipodi:role="line"
          id="tspan3605-3"
          x="-29.466356"
-         y="1317.0424">SALA DE RECREACION</tspan></text>
+         y="1317.0424"
+         style="font-size:40px;line-height:1.25;font-family:sans-serif">SALA DE RECREACION</tspan></text>
     <ellipse
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5.9000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path3607-3"
@@ -2706,29 +2704,29 @@
        id="g3614-3"
        transform="translate(-731.10237,386.21397)">
       <text
-         sodipodi:linespacing="125%"
          id="text3610-7"
          y="1304.7852"
          x="-254.86604"
-         style="font-style:normal;font-weight:normal;font-size:89.58037567px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="1304.7852"
            x="-254.86604"
            id="tspan3612-3"
-           sodipodi:role="line">PISO 2</tspan></text>
+           sodipodi:role="line"
+           style="font-size:89.58037567px;line-height:1.25;font-family:sans-serif">PISO 2</tspan></text>
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="1541.7047"
        y="342.11841"
        id="text3580-2"
-       sodipodi:linespacing="125%"
-       transform="matrix(0,1,-1,0,0,0)"><tspan
+       transform="rotate(90)"><tspan
          sodipodi:role="line"
          id="tspan3582-6"
          x="1541.7047"
-         y="342.11841">PRODUCCION</tspan></text>
+         y="342.11841"
+         style="font-size:40px;line-height:1.25;font-family:sans-serif">PRODUCCION</tspan></text>
     <rect
        y="1953.2975"
        x="-241.02727"
@@ -2773,338 +2771,338 @@
            id="g8357"
            transform="translate(-68,-14)">
           <image
-             sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/table.png"
+             sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/table.png"
              xlink:href="../Mi carpeta de Redes 2/img/table.png"
-             y="1831.6589"
-             x="417.57812"
+             width="28.90625"
+             height="28.90625"
+             preserveAspectRatio="none"
              id="image8359"
-             preserveAspectRatio="none"
-             height="28.90625"
-             width="28.90625" />
+             x="417.57812"
+             y="1831.6589" />
           <image
-             sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/table.png"
+             sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/table.png"
              xlink:href="../Mi carpeta de Redes 2/img/table.png"
-             width="28.90625"
-             height="28.90625"
-             preserveAspectRatio="none"
+             y="1871.6589"
+             x="417.57812"
              id="image8361"
-             x="417.57812"
-             y="1871.6589" />
-          <image
-             sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/table.png"
-             xlink:href="../Mi carpeta de Redes 2/img/table.png"
-             y="1911.6589"
-             x="417.57812"
-             id="image8363"
              preserveAspectRatio="none"
              height="28.90625"
              width="28.90625" />
           <image
-             sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/table.png"
+             sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/table.png"
              xlink:href="../Mi carpeta de Redes 2/img/table.png"
              width="28.90625"
              height="28.90625"
              preserveAspectRatio="none"
-             id="image8365"
+             id="image8363"
              x="417.57812"
-             y="1951.6589" />
+             y="1911.6589" />
+          <image
+             sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/table.png"
+             xlink:href="../Mi carpeta de Redes 2/img/table.png"
+             y="1951.6589"
+             x="417.57812"
+             id="image8365"
+             preserveAspectRatio="none"
+             height="28.90625"
+             width="28.90625" />
         </g>
         <g
            transform="translate(-140,-14)"
            id="g8367">
           <image
-             sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/table.png"
+             sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/table.png"
              xlink:href="../Mi carpeta de Redes 2/img/table.png"
-             width="28.90625"
-             height="28.90625"
-             preserveAspectRatio="none"
+             y="1831.6589"
+             x="417.57812"
              id="image8369"
-             x="417.57812"
-             y="1831.6589" />
-          <image
-             sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/table.png"
-             xlink:href="../Mi carpeta de Redes 2/img/table.png"
-             y="1871.6589"
-             x="417.57812"
-             id="image8371"
              preserveAspectRatio="none"
              height="28.90625"
              width="28.90625" />
           <image
-             sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/table.png"
+             sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/table.png"
              xlink:href="../Mi carpeta de Redes 2/img/table.png"
              width="28.90625"
              height="28.90625"
              preserveAspectRatio="none"
-             id="image8373"
+             id="image8371"
              x="417.57812"
-             y="1911.6589" />
+             y="1871.6589" />
           <image
-             sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/table.png"
+             sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/table.png"
              xlink:href="../Mi carpeta de Redes 2/img/table.png"
-             y="1951.6589"
+             y="1911.6589"
              x="417.57812"
-             id="image8375"
+             id="image8373"
              preserveAspectRatio="none"
              height="28.90625"
              width="28.90625" />
+          <image
+             sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/table.png"
+             xlink:href="../Mi carpeta de Redes 2/img/table.png"
+             width="28.90625"
+             height="28.90625"
+             preserveAspectRatio="none"
+             id="image8375"
+             x="417.57812"
+             y="1951.6589" />
         </g>
         <g
            transform="translate(-4,-14)"
            id="g8377">
           <image
-             sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/table.png"
+             sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/table.png"
              xlink:href="../Mi carpeta de Redes 2/img/table.png"
-             width="28.90625"
-             height="28.90625"
-             preserveAspectRatio="none"
+             y="1831.6589"
+             x="417.57812"
              id="image8379"
-             x="417.57812"
-             y="1831.6589" />
-          <image
-             sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/table.png"
-             xlink:href="../Mi carpeta de Redes 2/img/table.png"
-             y="1871.6589"
-             x="417.57812"
-             id="image8381"
              preserveAspectRatio="none"
              height="28.90625"
              width="28.90625" />
           <image
-             sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/table.png"
+             sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/table.png"
              xlink:href="../Mi carpeta de Redes 2/img/table.png"
              width="28.90625"
              height="28.90625"
              preserveAspectRatio="none"
-             id="image8383"
+             id="image8381"
              x="417.57812"
-             y="1911.6589" />
+             y="1871.6589" />
           <image
-             sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/table.png"
+             sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/table.png"
              xlink:href="../Mi carpeta de Redes 2/img/table.png"
-             y="1951.6589"
+             y="1911.6589"
              x="417.57812"
-             id="image8385"
+             id="image8383"
              preserveAspectRatio="none"
              height="28.90625"
              width="28.90625" />
+          <image
+             sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/table.png"
+             xlink:href="../Mi carpeta de Redes 2/img/table.png"
+             width="28.90625"
+             height="28.90625"
+             preserveAspectRatio="none"
+             id="image8385"
+             x="417.57812"
+             y="1951.6589" />
         </g>
         <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/taburete.png"
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/taburete.png"
            xlink:href="../Mi carpeta de Redes 2/img/taburete.png"
-           y="1816.5237"
-           x="260.01645"
+           width="22.739178"
+           height="30.041443"
+           preserveAspectRatio="none"
            id="image8387"
-           preserveAspectRatio="none"
-           height="30.041443"
-           width="22.739178" />
+           x="260.01645"
+           y="1816.5237" />
         <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/taburete.png"
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/taburete.png"
            xlink:href="../Mi carpeta de Redes 2/img/taburete.png"
-           width="22.739178"
-           height="30.041443"
-           preserveAspectRatio="none"
+           y="1816.5237"
+           x="302.01645"
            id="image8389"
-           x="302.01645"
-           y="1816.5237" />
-        <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/taburete.png"
-           xlink:href="../Mi carpeta de Redes 2/img/taburete.png"
-           width="22.739178"
-           height="30.041443"
            preserveAspectRatio="none"
+           height="30.041443"
+           width="22.739178" />
+        <image
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/taburete.png"
+           xlink:href="../Mi carpeta de Redes 2/img/taburete.png"
+           y="1856.5237"
+           x="260.01645"
            id="image8391"
-           x="260.01645"
-           y="1856.5237" />
+           preserveAspectRatio="none"
+           height="30.041443"
+           width="22.739178" />
         <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/taburete.png"
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/taburete.png"
            xlink:href="../Mi carpeta de Redes 2/img/taburete.png"
-           y="1856.5237"
-           x="302.01645"
+           width="22.739178"
+           height="30.041443"
+           preserveAspectRatio="none"
            id="image8393"
-           preserveAspectRatio="none"
-           height="30.041443"
-           width="22.739178" />
+           x="302.01645"
+           y="1856.5237" />
         <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/taburete.png"
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/taburete.png"
            xlink:href="../Mi carpeta de Redes 2/img/taburete.png"
-           y="1896.5237"
-           x="260.01645"
+           width="22.739178"
+           height="30.041443"
+           preserveAspectRatio="none"
            id="image8395"
-           preserveAspectRatio="none"
-           height="30.041443"
-           width="22.739178" />
-        <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/taburete.png"
-           xlink:href="../Mi carpeta de Redes 2/img/taburete.png"
-           width="22.739178"
-           height="30.041443"
-           preserveAspectRatio="none"
-           id="image8397"
-           x="302.01645"
-           y="1896.5237" />
-        <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/taburete.png"
-           xlink:href="../Mi carpeta de Redes 2/img/taburete.png"
-           width="22.739178"
-           height="30.041443"
-           preserveAspectRatio="none"
-           id="image8399"
            x="260.01645"
-           y="1936.5237" />
+           y="1896.5237" />
         <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/taburete.png"
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/taburete.png"
            xlink:href="../Mi carpeta de Redes 2/img/taburete.png"
-           y="1936.5237"
+           y="1896.5237"
            x="302.01645"
+           id="image8397"
+           preserveAspectRatio="none"
+           height="30.041443"
+           width="22.739178" />
+        <image
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/taburete.png"
+           xlink:href="../Mi carpeta de Redes 2/img/taburete.png"
+           y="1936.5237"
+           x="260.01645"
+           id="image8399"
+           preserveAspectRatio="none"
+           height="30.041443"
+           width="22.739178" />
+        <image
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/taburete.png"
+           xlink:href="../Mi carpeta de Redes 2/img/taburete.png"
+           width="22.739178"
+           height="30.041443"
+           preserveAspectRatio="none"
            id="image8401"
-           preserveAspectRatio="none"
-           height="30.041443"
-           width="22.739178" />
+           x="302.01645"
+           y="1936.5237" />
         <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/taburete.png"
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/taburete.png"
            xlink:href="../Mi carpeta de Redes 2/img/taburete.png"
-           y="1936.5237"
-           x="332.01645"
+           width="22.739178"
+           height="30.041443"
+           preserveAspectRatio="none"
            id="image8403"
-           preserveAspectRatio="none"
-           height="30.041443"
-           width="22.739178" />
-        <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/taburete.png"
-           xlink:href="../Mi carpeta de Redes 2/img/taburete.png"
-           width="22.739178"
-           height="30.041443"
-           preserveAspectRatio="none"
-           id="image8405"
-           x="374.01645"
+           x="332.01645"
            y="1936.5237" />
         <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/taburete.png"
-           xlink:href="../Mi carpeta de Redes 2/img/taburete.png"
-           width="22.739178"
-           height="30.041443"
-           preserveAspectRatio="none"
-           id="image8407"
-           x="332.01645"
-           y="1896.5237" />
-        <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/taburete.png"
-           xlink:href="../Mi carpeta de Redes 2/img/taburete.png"
-           y="1896.5237"
-           x="374.01645"
-           id="image8409"
-           preserveAspectRatio="none"
-           height="30.041443"
-           width="22.739178" />
-        <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/taburete.png"
-           xlink:href="../Mi carpeta de Redes 2/img/taburete.png"
-           y="1856.5237"
-           x="332.01645"
-           id="image8411"
-           preserveAspectRatio="none"
-           height="30.041443"
-           width="22.739178" />
-        <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/taburete.png"
-           xlink:href="../Mi carpeta de Redes 2/img/taburete.png"
-           width="22.739178"
-           height="30.041443"
-           preserveAspectRatio="none"
-           id="image8413"
-           x="374.01645"
-           y="1856.5237" />
-        <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/taburete.png"
-           xlink:href="../Mi carpeta de Redes 2/img/taburete.png"
-           width="22.739178"
-           height="30.041443"
-           preserveAspectRatio="none"
-           id="image8415"
-           x="332.01645"
-           y="1816.5237" />
-        <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/taburete.png"
-           xlink:href="../Mi carpeta de Redes 2/img/taburete.png"
-           y="1816.5237"
-           x="374.01645"
-           id="image8417"
-           preserveAspectRatio="none"
-           height="30.041443"
-           width="22.739178" />
-        <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/taburete.png"
-           xlink:href="../Mi carpeta de Redes 2/img/taburete.png"
-           y="1816.5237"
-           x="396.01645"
-           id="image8419"
-           preserveAspectRatio="none"
-           height="30.041443"
-           width="22.739178" />
-        <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/taburete.png"
-           xlink:href="../Mi carpeta de Redes 2/img/taburete.png"
-           width="22.739178"
-           height="30.041443"
-           preserveAspectRatio="none"
-           id="image8421"
-           x="438.01645"
-           y="1816.5237" />
-        <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/taburete.png"
-           xlink:href="../Mi carpeta de Redes 2/img/taburete.png"
-           width="22.739178"
-           height="30.041443"
-           preserveAspectRatio="none"
-           id="image8423"
-           x="396.01645"
-           y="1856.5237" />
-        <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/taburete.png"
-           xlink:href="../Mi carpeta de Redes 2/img/taburete.png"
-           y="1856.5237"
-           x="438.01645"
-           id="image8425"
-           preserveAspectRatio="none"
-           height="30.041443"
-           width="22.739178" />
-        <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/taburete.png"
-           xlink:href="../Mi carpeta de Redes 2/img/taburete.png"
-           y="1896.5237"
-           x="396.01645"
-           id="image8427"
-           preserveAspectRatio="none"
-           height="30.041443"
-           width="22.739178" />
-        <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/taburete.png"
-           xlink:href="../Mi carpeta de Redes 2/img/taburete.png"
-           width="22.739178"
-           height="30.041443"
-           preserveAspectRatio="none"
-           id="image8429"
-           x="438.01645"
-           y="1896.5237" />
-        <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/taburete.png"
-           xlink:href="../Mi carpeta de Redes 2/img/taburete.png"
-           width="22.739178"
-           height="30.041443"
-           preserveAspectRatio="none"
-           id="image8431"
-           x="396.01645"
-           y="1936.5237" />
-        <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/taburete.png"
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/taburete.png"
            xlink:href="../Mi carpeta de Redes 2/img/taburete.png"
            y="1936.5237"
-           x="438.01645"
-           id="image8433"
+           x="374.01645"
+           id="image8405"
            preserveAspectRatio="none"
            height="30.041443"
            width="22.739178" />
+        <image
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/taburete.png"
+           xlink:href="../Mi carpeta de Redes 2/img/taburete.png"
+           y="1896.5237"
+           x="332.01645"
+           id="image8407"
+           preserveAspectRatio="none"
+           height="30.041443"
+           width="22.739178" />
+        <image
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/taburete.png"
+           xlink:href="../Mi carpeta de Redes 2/img/taburete.png"
+           width="22.739178"
+           height="30.041443"
+           preserveAspectRatio="none"
+           id="image8409"
+           x="374.01645"
+           y="1896.5237" />
+        <image
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/taburete.png"
+           xlink:href="../Mi carpeta de Redes 2/img/taburete.png"
+           width="22.739178"
+           height="30.041443"
+           preserveAspectRatio="none"
+           id="image8411"
+           x="332.01645"
+           y="1856.5237" />
+        <image
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/taburete.png"
+           xlink:href="../Mi carpeta de Redes 2/img/taburete.png"
+           y="1856.5237"
+           x="374.01645"
+           id="image8413"
+           preserveAspectRatio="none"
+           height="30.041443"
+           width="22.739178" />
+        <image
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/taburete.png"
+           xlink:href="../Mi carpeta de Redes 2/img/taburete.png"
+           y="1816.5237"
+           x="332.01645"
+           id="image8415"
+           preserveAspectRatio="none"
+           height="30.041443"
+           width="22.739178" />
+        <image
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/taburete.png"
+           xlink:href="../Mi carpeta de Redes 2/img/taburete.png"
+           width="22.739178"
+           height="30.041443"
+           preserveAspectRatio="none"
+           id="image8417"
+           x="374.01645"
+           y="1816.5237" />
+        <image
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/taburete.png"
+           xlink:href="../Mi carpeta de Redes 2/img/taburete.png"
+           width="22.739178"
+           height="30.041443"
+           preserveAspectRatio="none"
+           id="image8419"
+           x="396.01645"
+           y="1816.5237" />
+        <image
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/taburete.png"
+           xlink:href="../Mi carpeta de Redes 2/img/taburete.png"
+           y="1816.5237"
+           x="438.01645"
+           id="image8421"
+           preserveAspectRatio="none"
+           height="30.041443"
+           width="22.739178" />
+        <image
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/taburete.png"
+           xlink:href="../Mi carpeta de Redes 2/img/taburete.png"
+           y="1856.5237"
+           x="396.01645"
+           id="image8423"
+           preserveAspectRatio="none"
+           height="30.041443"
+           width="22.739178" />
+        <image
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/taburete.png"
+           xlink:href="../Mi carpeta de Redes 2/img/taburete.png"
+           width="22.739178"
+           height="30.041443"
+           preserveAspectRatio="none"
+           id="image8425"
+           x="438.01645"
+           y="1856.5237" />
+        <image
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/taburete.png"
+           xlink:href="../Mi carpeta de Redes 2/img/taburete.png"
+           width="22.739178"
+           height="30.041443"
+           preserveAspectRatio="none"
+           id="image8427"
+           x="396.01645"
+           y="1896.5237" />
+        <image
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/taburete.png"
+           xlink:href="../Mi carpeta de Redes 2/img/taburete.png"
+           y="1896.5237"
+           x="438.01645"
+           id="image8429"
+           preserveAspectRatio="none"
+           height="30.041443"
+           width="22.739178" />
+        <image
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/taburete.png"
+           xlink:href="../Mi carpeta de Redes 2/img/taburete.png"
+           y="1936.5237"
+           x="396.01645"
+           id="image8431"
+           preserveAspectRatio="none"
+           height="30.041443"
+           width="22.739178" />
+        <image
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/taburete.png"
+           xlink:href="../Mi carpeta de Redes 2/img/taburete.png"
+           width="22.739178"
+           height="30.041443"
+           preserveAspectRatio="none"
+           id="image8433"
+           x="438.01645"
+           y="1936.5237" />
       </g>
       <rect
          style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.37375596;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -3128,41 +3126,41 @@
            id="rect8446"
            style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:4.91325283;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/heladre.jpg"
-           xlink:href="../Mi carpeta de Redes 2/img/heladre.jpg"
-           y="1922.5909"
-           x="180.68364"
-           id="image8448"
-           preserveAspectRatio="none"
-           height="23.718369"
-           width="23.718369" />
-        <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/heladre.jpg"
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/heladre.jpg"
            xlink:href="../Mi carpeta de Redes 2/img/heladre.jpg"
            width="23.718369"
            height="23.718369"
            preserveAspectRatio="none"
-           id="image8450"
-           x="136.26422"
-           y="1922.0386" />
+           id="image8448"
+           x="180.68364"
+           y="1922.5909" />
         <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/table.png"
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/heladre.jpg"
+           xlink:href="../Mi carpeta de Redes 2/img/heladre.jpg"
+           y="1922.0386"
+           x="136.26422"
+           id="image8450"
+           preserveAspectRatio="none"
+           height="23.718369"
+           width="23.718369" />
+        <image
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/table.png"
+           xlink:href="../Mi carpeta de Redes 2/img/table.png"
+           y="1957.358"
+           x="128.04283"
+           id="image8452"
+           preserveAspectRatio="none"
+           height="18.666546"
+           width="38.553925" />
+        <image
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/table.png"
            xlink:href="../Mi carpeta de Redes 2/img/table.png"
            width="38.553925"
            height="18.666546"
            preserveAspectRatio="none"
-           id="image8452"
-           x="128.04283"
-           y="1957.358" />
-        <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/table.png"
-           xlink:href="../Mi carpeta de Redes 2/img/table.png"
-           y="1957.358"
-           x="180.19623"
            id="image8454"
-           preserveAspectRatio="none"
-           height="18.666546"
-           width="38.553925" />
+           x="180.19623"
+           y="1957.358" />
       </g>
       <rect
          y="2843.748"
@@ -3194,104 +3192,104 @@
                  transform="translate(68.054559,909.26626)"
                  id="g8213">
                 <image
-                   sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/sillon.png"
+                   sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/sillon.png"
+                   xlink:href="../Mi carpeta de Redes 2/img/sillon.png"
+                   width="73.890358"
+                   height="38.792435"
+                   preserveAspectRatio="none"
+                   id="image8215"
+                   x="53.070229"
+                   y="1400.978" />
+                <image
+                   sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/sillon.png"
                    xlink:href="../Mi carpeta de Redes 2/img/sillon.png"
                    y="1400.978"
-                   x="53.070229"
-                   id="image8215"
+                   x="126.96059"
+                   id="image8217"
                    preserveAspectRatio="none"
                    height="38.792435"
                    width="73.890358" />
                 <image
-                   sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/sillon.png"
-                   xlink:href="../Mi carpeta de Redes 2/img/sillon.png"
-                   width="73.890358"
-                   height="38.792435"
-                   preserveAspectRatio="none"
-                   id="image8217"
-                   x="126.96059"
-                   y="1400.978" />
-                <image
-                   sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/sillon.png"
-                   xlink:href="../Mi carpeta de Redes 2/img/sillon.png"
-                   y="-1483.0093"
-                   x="126.96059"
-                   id="image8219"
-                   preserveAspectRatio="none"
-                   height="43.238815"
-                   width="73.890358"
-                   transform="scale(1,-1)" />
-                <image
-                   sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/sillon.png"
+                   sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/sillon.png"
                    xlink:href="../Mi carpeta de Redes 2/img/sillon.png"
                    transform="scale(1,-1)"
                    width="73.890358"
                    height="43.238815"
                    preserveAspectRatio="none"
-                   id="image8221"
-                   x="53.070229"
+                   id="image8219"
+                   x="126.96059"
                    y="-1483.0093" />
+                <image
+                   sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/sillon.png"
+                   xlink:href="../Mi carpeta de Redes 2/img/sillon.png"
+                   y="-1483.0093"
+                   x="53.070229"
+                   id="image8221"
+                   preserveAspectRatio="none"
+                   height="43.238815"
+                   width="73.890358"
+                   transform="scale(1,-1)" />
               </g>
               <g
                  id="g8223"
                  transform="translate(328.05456,909.26626)">
                 <image
-                   sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/sillon.png"
-                   xlink:href="../Mi carpeta de Redes 2/img/sillon.png"
-                   width="73.890358"
-                   height="38.792435"
-                   preserveAspectRatio="none"
-                   id="image8225"
-                   x="53.070229"
-                   y="1400.978" />
-                <image
-                   sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/sillon.png"
+                   sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/sillon.png"
                    xlink:href="../Mi carpeta de Redes 2/img/sillon.png"
                    y="1400.978"
-                   x="126.96059"
-                   id="image8227"
+                   x="53.070229"
+                   id="image8225"
                    preserveAspectRatio="none"
                    height="38.792435"
                    width="73.890358" />
                 <image
-                   sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/sillon.png"
+                   sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/sillon.png"
+                   xlink:href="../Mi carpeta de Redes 2/img/sillon.png"
+                   width="73.890358"
+                   height="38.792435"
+                   preserveAspectRatio="none"
+                   id="image8227"
+                   x="126.96059"
+                   y="1400.978" />
+                <image
+                   sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/sillon.png"
+                   xlink:href="../Mi carpeta de Redes 2/img/sillon.png"
+                   y="-1483.0093"
+                   x="126.96059"
+                   id="image8229"
+                   preserveAspectRatio="none"
+                   height="43.238815"
+                   width="73.890358"
+                   transform="scale(1,-1)" />
+                <image
+                   sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/sillon.png"
                    xlink:href="../Mi carpeta de Redes 2/img/sillon.png"
                    transform="scale(1,-1)"
                    width="73.890358"
                    height="43.238815"
                    preserveAspectRatio="none"
-                   id="image8229"
-                   x="126.96059"
-                   y="-1483.0093" />
-                <image
-                   sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/sillon.png"
-                   xlink:href="../Mi carpeta de Redes 2/img/sillon.png"
-                   y="-1483.0093"
-                   x="53.070229"
                    id="image8231"
-                   preserveAspectRatio="none"
-                   height="43.238815"
-                   width="73.890358"
-                   transform="scale(1,-1)" />
+                   x="53.070229"
+                   y="-1483.0093" />
               </g>
               <image
-                 sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/ping-pong.png"
+                 sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/ping-pong.png"
+                 xlink:href="../Mi carpeta de Redes 2/img/ping-pong.png"
+                 y="2320.2222"
+                 x="292.27332"
+                 id="image8233"
+                 preserveAspectRatio="none"
+                 height="62.5"
+                 width="62.5" />
+              <image
+                 sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/ping-pong.png"
                  xlink:href="../Mi carpeta de Redes 2/img/ping-pong.png"
                  width="62.5"
                  height="62.5"
                  preserveAspectRatio="none"
-                 id="image8233"
-                 x="292.27332"
-                 y="2320.2222" />
-              <image
-                 sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/ping-pong.png"
-                 xlink:href="../Mi carpeta de Redes 2/img/ping-pong.png"
-                 y="2320.2222"
-                 x="32.273308"
                  id="image8235"
-                 preserveAspectRatio="none"
-                 height="62.5"
-                 width="62.5" />
+                 x="32.273308"
+                 y="2320.2222" />
               <rect
                  y="2397.4563"
                  x="179.0551"
@@ -3322,14 +3320,14 @@
          id="rect8497"
          style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5.9000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <image
-         sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/ascensor.png"
+         sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/ascensor.png"
          xlink:href="../Mi carpeta de Redes 2/img/ascensor.png"
-         width="84.94886"
-         height="84.94886"
-         preserveAspectRatio="none"
-         id="image8499"
+         y="1589.4657"
          x="-7.5317307"
-         y="1589.4657" />
+         id="image8499"
+         preserveAspectRatio="none"
+         height="84.94886"
+         width="84.94886" />
     </g>
     <g
        id="g8693"
@@ -3359,14 +3357,14 @@
                  id="rect8603"
                  style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.58907843;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
               <image
-                 sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla_empleado.jpg"
+                 sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla_empleado.jpg"
                  xlink:href="../Mi carpeta de Redes 2/img/silla_empleado.jpg"
-                 y="1961.5643"
-                 x="-283.51041"
-                 id="image8605"
-                 preserveAspectRatio="none"
+                 width="17.967054"
                  height="17.967054"
-                 width="17.967054" />
+                 preserveAspectRatio="none"
+                 id="image8605"
+                 x="-283.51041"
+                 y="1961.5643" />
               <rect
                  y="-293.73502"
                  x="-1959.348"
@@ -3384,15 +3382,15 @@
                  ry="4.0393591" />
             </g>
             <image
-               sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/pc.png"
+               sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/pc.png"
                xlink:href="../Mi carpeta de Redes 2/img/pc.png"
-               transform="matrix(0.99993006,-0.01182662,0.01182662,0.99993006,0,0)"
-               width="18.877258"
-               height="18.877258"
-               preserveAspectRatio="none"
-               id="image8611"
+               y="1939.4094"
                x="-307.60077"
-               y="1939.4094" />
+               id="image8611"
+               preserveAspectRatio="none"
+               height="18.877258"
+               width="18.877258"
+               transform="matrix(0.99993006,-0.01182662,0.01182662,0.99993006,0,0)" />
           </g>
           <g
              id="g8613"
@@ -3407,14 +3405,14 @@
                  x="-286.43304"
                  y="1945.021" />
               <image
-                 sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla_empleado.jpg"
+                 sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla_empleado.jpg"
                  xlink:href="../Mi carpeta de Redes 2/img/silla_empleado.jpg"
-                 width="17.967054"
-                 height="17.967054"
-                 preserveAspectRatio="none"
-                 id="image8619"
+                 y="1961.5643"
                  x="-283.51041"
-                 y="1961.5643" />
+                 id="image8619"
+                 preserveAspectRatio="none"
+                 height="17.967054"
+                 width="17.967054" />
               <rect
                  transform="matrix(-0.0042715,-0.99999088,0.99999088,-0.0042715,0,0)"
                  style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.52241302;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -3432,15 +3430,15 @@
                  style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.94908643;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
             </g>
             <image
-               sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/pc.png"
+               sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/pc.png"
                xlink:href="../Mi carpeta de Redes 2/img/pc.png"
-               y="1939.4094"
-               x="-307.60077"
-               id="image8625"
-               preserveAspectRatio="none"
-               height="18.877258"
+               transform="matrix(0.99993006,-0.01182662,0.01182662,0.99993006,0,0)"
                width="18.877258"
-               transform="matrix(0.99993006,-0.01182662,0.01182662,0.99993006,0,0)" />
+               height="18.877258"
+               preserveAspectRatio="none"
+               id="image8625"
+               x="-307.60077"
+               y="1939.4094" />
           </g>
           <g
              transform="translate(160,0)"
@@ -3455,14 +3453,14 @@
                  id="rect8631"
                  style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.58907843;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
               <image
-                 sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla_empleado.jpg"
+                 sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla_empleado.jpg"
                  xlink:href="../Mi carpeta de Redes 2/img/silla_empleado.jpg"
-                 y="1961.5643"
-                 x="-283.51041"
-                 id="image8633"
-                 preserveAspectRatio="none"
+                 width="17.967054"
                  height="17.967054"
-                 width="17.967054" />
+                 preserveAspectRatio="none"
+                 id="image8633"
+                 x="-283.51041"
+                 y="1961.5643" />
               <rect
                  y="-293.73502"
                  x="-1959.348"
@@ -3480,15 +3478,15 @@
                  ry="4.0393591" />
             </g>
             <image
-               sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/pc.png"
+               sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/pc.png"
                xlink:href="../Mi carpeta de Redes 2/img/pc.png"
-               transform="matrix(0.99993006,-0.01182662,0.01182662,0.99993006,0,0)"
-               width="18.877258"
-               height="18.877258"
-               preserveAspectRatio="none"
-               id="image8639"
+               y="1939.4094"
                x="-307.60077"
-               y="1939.4094" />
+               id="image8639"
+               preserveAspectRatio="none"
+               height="18.877258"
+               width="18.877258"
+               transform="matrix(0.99993006,-0.01182662,0.01182662,0.99993006,0,0)" />
           </g>
           <g
              id="g8641"
@@ -3503,14 +3501,14 @@
                  x="-286.43304"
                  y="1945.021" />
               <image
-                 sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla_empleado.jpg"
+                 sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla_empleado.jpg"
                  xlink:href="../Mi carpeta de Redes 2/img/silla_empleado.jpg"
-                 width="17.967054"
-                 height="17.967054"
-                 preserveAspectRatio="none"
-                 id="image8647"
+                 y="1961.5643"
                  x="-283.51041"
-                 y="1961.5643" />
+                 id="image8647"
+                 preserveAspectRatio="none"
+                 height="17.967054"
+                 width="17.967054" />
               <rect
                  transform="matrix(-0.0042715,-0.99999088,0.99999088,-0.0042715,0,0)"
                  style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.52241302;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -3528,15 +3526,15 @@
                  style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.94908643;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
             </g>
             <image
-               sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/pc.png"
+               sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/pc.png"
                xlink:href="../Mi carpeta de Redes 2/img/pc.png"
-               y="1939.4094"
-               x="-307.60077"
-               id="image8653"
-               preserveAspectRatio="none"
-               height="18.877258"
+               transform="matrix(0.99993006,-0.01182662,0.01182662,0.99993006,0,0)"
                width="18.877258"
-               transform="matrix(0.99993006,-0.01182662,0.01182662,0.99993006,0,0)" />
+               height="18.877258"
+               preserveAspectRatio="none"
+               id="image8653"
+               x="-307.60077"
+               y="1939.4094" />
           </g>
           <g
              id="g8655">
@@ -3548,14 +3546,14 @@
                id="rect8657"
                style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
             <image
-               sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/telefono.png"
+               sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/telefono.png"
                xlink:href="../Mi carpeta de Redes 2/img/telefono.png"
-               y="1961.9562"
-               x="21.906372"
-               id="image8659"
-               preserveAspectRatio="none"
+               width="20.175781"
                height="20.175781"
-               width="20.175781" />
+               preserveAspectRatio="none"
+               id="image8659"
+               x="21.906372"
+               y="1961.9562" />
           </g>
           <g
              id="g8661"
@@ -3586,33 +3584,33 @@
                  y="2400.0835" />
             </g>
             <image
-               sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/notebook.png"
+               sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/notebook.png"
                xlink:href="../Mi carpeta de Redes 2/img/notebook.png"
-               transform="matrix(-0.9999479,0.0102079,0.00905002,0.99995905,0,0)"
-               width="15.464911"
-               height="16.424368"
-               preserveAspectRatio="none"
-               id="image8671"
+               y="706.23022"
                x="-1667.653"
-               y="706.23022" />
+               id="image8671"
+               preserveAspectRatio="none"
+               height="16.424368"
+               width="15.464911"
+               transform="matrix(-0.9999479,0.0102079,0.00905002,0.99995905,0,0)" />
             <image
-               sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla.png"
+               sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla.png"
                xlink:href="../Mi carpeta de Redes 2/img/silla.png"
-               width="17.60117"
-               height="22.559301"
-               preserveAspectRatio="none"
-               id="image8673"
+               y="691.82245"
                x="1674.4967"
-               y="691.82245" />
-            <image
-               sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/telefono.png"
-               xlink:href="../Mi carpeta de Redes 2/img/telefono.png"
-               y="705.75964"
-               x="1658.642"
-               id="image8675"
+               id="image8673"
                preserveAspectRatio="none"
+               height="22.559301"
+               width="17.60117" />
+            <image
+               sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/telefono.png"
+               xlink:href="../Mi carpeta de Redes 2/img/telefono.png"
+               width="14.303864"
                height="14.303864"
-               width="14.303864" />
+               preserveAspectRatio="none"
+               id="image8675"
+               x="1658.642"
+               y="705.75964" />
           </g>
           <g
              id="g8677">
@@ -3624,14 +3622,14 @@
                x="22.42841"
                y="1922.1958" />
             <image
-               sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/impresora.png"
+               sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/impresora.png"
                xlink:href="../Mi carpeta de Redes 2/img/impresora.png"
-               y="1923.0117"
-               x="28.383755"
-               id="image8681"
-               preserveAspectRatio="none"
+               width="10.762634"
                height="10.762634"
-               width="10.762634" />
+               preserveAspectRatio="none"
+               id="image8681"
+               x="28.383755"
+               y="1923.0117" />
           </g>
         </g>
         <rect
@@ -3692,23 +3690,23 @@
            x="657.40985"
            y="2347.2722" />
         <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/telefono.png"
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/telefono.png"
            xlink:href="../Mi carpeta de Redes 2/img/telefono.png"
-           width="302.5"
-           height="302.5"
-           preserveAspectRatio="none"
-           id="image3612-83"
+           y="2447.072"
            x="740.82648"
-           y="2447.072" />
-        <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/impresora.png"
-           xlink:href="../Mi carpeta de Redes 2/img/impresora.png"
-           width="342.38058"
-           height="342.38058"
+           id="image3612-83"
            preserveAspectRatio="none"
-           id="image3623-8"
+           height="302.5"
+           width="302.5" />
+        <image
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/impresora.png"
+           xlink:href="../Mi carpeta de Redes 2/img/impresora.png"
+           y="2815.8611"
            x="726.28583"
-           y="2815.8611" />
+           id="image3623-8"
+           preserveAspectRatio="none"
+           height="342.38058"
+           width="342.38058" />
       </g>
       <g
          transform="matrix(0.12061051,0,0,0.11551641,-471.32328,1288.4969)"
@@ -3721,24 +3719,24 @@
            x="287.0296"
            y="2414.3823" />
         <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/pc.png"
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/pc.png"
            xlink:href="../Mi carpeta de Redes 2/img/pc.png"
-           y="-463.17926"
-           x="2427.1106"
-           id="image3772-2"
-           preserveAspectRatio="none"
-           height="207.3125"
+           transform="matrix(0.00755534,0.99997146,-0.99997146,0.00755534,0,0)"
            width="207.3125"
-           transform="matrix(0.00755534,0.99997146,-0.99997146,0.00755534,0,0)" />
-        <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla_empleado.jpg"
-           xlink:href="../Mi carpeta de Redes 2/img/silla_empleado.jpg"
-           y="2435.0981"
-           x="78.446907"
-           id="image3785-27"
+           height="207.3125"
            preserveAspectRatio="none"
+           id="image3772-2"
+           x="2427.1106"
+           y="-463.17926" />
+        <image
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla_empleado.jpg"
+           xlink:href="../Mi carpeta de Redes 2/img/silla_empleado.jpg"
+           width="197.31651"
            height="197.31651"
-           width="197.31651" />
+           preserveAspectRatio="none"
+           id="image3785-27"
+           x="78.446907"
+           y="2435.0981" />
       </g>
       <g
          id="g3793-0"
@@ -3751,24 +3749,24 @@
            id="rect3795-3"
            style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:4.89877367;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/pc.png"
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/pc.png"
            xlink:href="../Mi carpeta de Redes 2/img/pc.png"
-           transform="matrix(0.00755534,0.99997146,-0.99997146,0.00755534,0,0)"
-           width="207.3125"
-           height="207.3125"
-           preserveAspectRatio="none"
-           id="image3797-4"
+           y="-463.17926"
            x="2427.1106"
-           y="-463.17926" />
-        <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla_empleado.jpg"
-           xlink:href="../Mi carpeta de Redes 2/img/silla_empleado.jpg"
-           width="197.31651"
-           height="197.31651"
+           id="image3797-4"
            preserveAspectRatio="none"
-           id="image3799-6"
+           height="207.3125"
+           width="207.3125"
+           transform="matrix(0.00755534,0.99997146,-0.99997146,0.00755534,0,0)" />
+        <image
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla_empleado.jpg"
+           xlink:href="../Mi carpeta de Redes 2/img/silla_empleado.jpg"
+           y="2435.0981"
            x="78.446907"
-           y="2435.0981" />
+           id="image3799-6"
+           preserveAspectRatio="none"
+           height="197.31651"
+           width="197.31651" />
       </g>
       <g
          transform="matrix(0.12061051,0,0,0.11551641,-471.32328,1358.1962)"
@@ -3781,24 +3779,24 @@
            x="287.0296"
            y="2414.3823" />
         <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/pc.png"
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/pc.png"
            xlink:href="../Mi carpeta de Redes 2/img/pc.png"
-           y="-463.17926"
-           x="2427.1106"
-           id="image3805-3"
-           preserveAspectRatio="none"
-           height="207.3125"
+           transform="matrix(0.00755534,0.99997146,-0.99997146,0.00755534,0,0)"
            width="207.3125"
-           transform="matrix(0.00755534,0.99997146,-0.99997146,0.00755534,0,0)" />
-        <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla_empleado.jpg"
-           xlink:href="../Mi carpeta de Redes 2/img/silla_empleado.jpg"
-           y="2435.0981"
-           x="78.446907"
-           id="image3807-34"
+           height="207.3125"
            preserveAspectRatio="none"
+           id="image3805-3"
+           x="2427.1106"
+           y="-463.17926" />
+        <image
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla_empleado.jpg"
+           xlink:href="../Mi carpeta de Redes 2/img/silla_empleado.jpg"
+           width="197.31651"
            height="197.31651"
-           width="197.31651" />
+           preserveAspectRatio="none"
+           id="image3807-34"
+           x="78.446907"
+           y="2435.0981" />
       </g>
       <g
          id="g3809-4"
@@ -3811,24 +3809,24 @@
            id="rect3811-3"
            style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:4.89877367;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/pc.png"
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/pc.png"
            xlink:href="../Mi carpeta de Redes 2/img/pc.png"
-           transform="matrix(0.00755534,0.99997146,-0.99997146,0.00755534,0,0)"
-           width="207.3125"
-           height="207.3125"
-           preserveAspectRatio="none"
-           id="image3813-9"
+           y="-463.17926"
            x="2427.1106"
-           y="-463.17926" />
-        <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla_empleado.jpg"
-           xlink:href="../Mi carpeta de Redes 2/img/silla_empleado.jpg"
-           width="197.31651"
-           height="197.31651"
+           id="image3813-9"
            preserveAspectRatio="none"
-           id="image3815-7"
+           height="207.3125"
+           width="207.3125"
+           transform="matrix(0.00755534,0.99997146,-0.99997146,0.00755534,0,0)" />
+        <image
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla_empleado.jpg"
+           xlink:href="../Mi carpeta de Redes 2/img/silla_empleado.jpg"
+           y="2435.0981"
            x="78.446907"
-           y="2435.0981" />
+           id="image3815-7"
+           preserveAspectRatio="none"
+           height="197.31651"
+           width="197.31651" />
       </g>
       <g
          transform="matrix(0.12061051,0,0,0.11551641,-471.32328,1425.4062)"
@@ -3841,24 +3839,24 @@
            x="287.0296"
            y="2414.3823" />
         <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/pc.png"
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/pc.png"
            xlink:href="../Mi carpeta de Redes 2/img/pc.png"
-           y="-463.17926"
-           x="2427.1106"
-           id="image3821-8"
-           preserveAspectRatio="none"
-           height="207.3125"
+           transform="matrix(0.00755534,0.99997146,-0.99997146,0.00755534,0,0)"
            width="207.3125"
-           transform="matrix(0.00755534,0.99997146,-0.99997146,0.00755534,0,0)" />
-        <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla_empleado.jpg"
-           xlink:href="../Mi carpeta de Redes 2/img/silla_empleado.jpg"
-           y="2435.0981"
-           x="78.446907"
-           id="image3823-9"
+           height="207.3125"
            preserveAspectRatio="none"
+           id="image3821-8"
+           x="2427.1106"
+           y="-463.17926" />
+        <image
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla_empleado.jpg"
+           xlink:href="../Mi carpeta de Redes 2/img/silla_empleado.jpg"
+           width="197.31651"
            height="197.31651"
-           width="197.31651" />
+           preserveAspectRatio="none"
+           id="image3823-9"
+           x="78.446907"
+           y="2435.0981" />
       </g>
       <g
          id="g3825-0"
@@ -3871,24 +3869,24 @@
            id="rect3827-24"
            style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:4.89877367;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/pc.png"
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/pc.png"
            xlink:href="../Mi carpeta de Redes 2/img/pc.png"
-           transform="matrix(0.00755534,0.99997146,-0.99997146,0.00755534,0,0)"
-           width="207.3125"
-           height="207.3125"
-           preserveAspectRatio="none"
-           id="image3829-7"
+           y="-463.17926"
            x="2427.1106"
-           y="-463.17926" />
-        <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla_empleado.jpg"
-           xlink:href="../Mi carpeta de Redes 2/img/silla_empleado.jpg"
-           width="197.31651"
-           height="197.31651"
+           id="image3829-7"
            preserveAspectRatio="none"
-           id="image3831-6"
+           height="207.3125"
+           width="207.3125"
+           transform="matrix(0.00755534,0.99997146,-0.99997146,0.00755534,0,0)" />
+        <image
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla_empleado.jpg"
+           xlink:href="../Mi carpeta de Redes 2/img/silla_empleado.jpg"
+           y="2435.0981"
            x="78.446907"
-           y="2435.0981" />
+           id="image3831-6"
+           preserveAspectRatio="none"
+           height="197.31651"
+           width="197.31651" />
       </g>
       <g
          transform="matrix(0.12061051,0,0,0.11551641,-471.32328,1492.279)"
@@ -3901,24 +3899,24 @@
            x="287.0296"
            y="2414.3823" />
         <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/pc.png"
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/pc.png"
            xlink:href="../Mi carpeta de Redes 2/img/pc.png"
-           y="-463.17926"
-           x="2427.1106"
-           id="image3837-1"
-           preserveAspectRatio="none"
-           height="207.3125"
+           transform="matrix(0.00755534,0.99997146,-0.99997146,0.00755534,0,0)"
            width="207.3125"
-           transform="matrix(0.00755534,0.99997146,-0.99997146,0.00755534,0,0)" />
-        <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla_empleado.jpg"
-           xlink:href="../Mi carpeta de Redes 2/img/silla_empleado.jpg"
-           y="2435.0981"
-           x="78.446907"
-           id="image3839-3"
+           height="207.3125"
            preserveAspectRatio="none"
+           id="image3837-1"
+           x="2427.1106"
+           y="-463.17926" />
+        <image
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla_empleado.jpg"
+           xlink:href="../Mi carpeta de Redes 2/img/silla_empleado.jpg"
+           width="197.31651"
            height="197.31651"
-           width="197.31651" />
+           preserveAspectRatio="none"
+           id="image3839-3"
+           x="78.446907"
+           y="2435.0981" />
       </g>
       <g
          id="g3841-3"
@@ -3931,24 +3929,24 @@
            id="rect3843-3"
            style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:4.89877367;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/pc.png"
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/pc.png"
            xlink:href="../Mi carpeta de Redes 2/img/pc.png"
-           transform="matrix(0.00755534,0.99997146,-0.99997146,0.00755534,0,0)"
-           width="207.3125"
-           height="207.3125"
-           preserveAspectRatio="none"
-           id="image3845-8"
+           y="-463.17926"
            x="2427.1106"
-           y="-463.17926" />
-        <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla_empleado.jpg"
-           xlink:href="../Mi carpeta de Redes 2/img/silla_empleado.jpg"
-           width="197.31651"
-           height="197.31651"
+           id="image3845-8"
            preserveAspectRatio="none"
-           id="image3847-51"
+           height="207.3125"
+           width="207.3125"
+           transform="matrix(0.00755534,0.99997146,-0.99997146,0.00755534,0,0)" />
+        <image
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla_empleado.jpg"
+           xlink:href="../Mi carpeta de Redes 2/img/silla_empleado.jpg"
+           y="2435.0981"
            x="78.446907"
-           y="2435.0981" />
+           id="image3847-51"
+           preserveAspectRatio="none"
+           height="197.31651"
+           width="197.31651" />
       </g>
       <g
          id="g6425">
@@ -3978,35 +3976,35 @@
              style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.30389333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         </g>
         <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/notebook.png"
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/notebook.png"
            xlink:href="../Mi carpeta de Redes 2/img/notebook.png"
-           y="440.06671"
-           x="-1531.1447"
-           id="image3634-1"
-           preserveAspectRatio="none"
-           height="20.547514"
+           transform="matrix(-0.00977676,-0.99995221,-0.99995536,0.00944906,0,0)"
            width="20.200214"
-           transform="matrix(-0.00977676,-0.99995221,-0.99995536,0.00944906,0,0)" />
+           height="20.547514"
+           preserveAspectRatio="none"
+           id="image3634-1"
+           x="-1531.1447"
+           y="440.06671" />
         <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla.png"
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla.png"
            xlink:href="../Mi carpeta de Redes 2/img/silla.png"
-           transform="scale(-1,1)"
-           y="1518.6324"
-           x="445.452"
-           id="image3705-5"
-           preserveAspectRatio="none"
+           width="16.679863"
            height="16.96669"
-           width="16.679863" />
-        <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/router.jpg"
-           xlink:href="../Mi carpeta de Redes 2/img/router.jpg"
-           transform="matrix(0,1,-1,0,0,0)"
-           width="13.374578"
-           height="13.374578"
            preserveAspectRatio="none"
-           id="image6357"
+           id="image3705-5"
+           x="445.452"
+           y="1518.6324"
+           transform="scale(-1,1)" />
+        <image
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/router.jpg"
+           xlink:href="../Mi carpeta de Redes 2/img/router.jpg"
+           y="429.33286"
            x="1533.801"
-           y="429.33286" />
+           id="image6357"
+           preserveAspectRatio="none"
+           height="13.374578"
+           width="13.374578"
+           transform="matrix(0,1,-1,0,0,0)" />
       </g>
     </g>
     <rect
@@ -4128,16 +4126,16 @@
        x="1919.7865"
        y="-92.825241" />
     <text
-       sodipodi:linespacing="125%"
        id="text6560"
        y="2034.6074"
        x="-254.66692"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          y="2034.6074"
          x="-254.66692"
          id="tspan6562"
-         sodipodi:role="line">DESARROLLO TEC</tspan></text>
+         sodipodi:role="line"
+         style="font-size:40px;line-height:1.25;font-family:sans-serif">DESARROLLO TEC</tspan></text>
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#b3b3b3;stroke-width:2.42700005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4352"
@@ -4153,23 +4151,23 @@
        x="778.27771"
        y="1818.4061" />
     <image
-       sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/router.jpg"
+       sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/router.jpg"
        xlink:href="../Mi carpeta de Redes 2/img/router.jpg"
-       y="1834.717"
-       x="798.61084"
-       id="image4331"
-       preserveAspectRatio="none"
+       width="45.654827"
        height="45.654827"
-       width="45.654827" />
-    <image
-       sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/switch.png"
-       xlink:href="../Mi carpeta de Redes 2/img/switch.png"
-       y="1762.9115"
-       x="763.97064"
-       id="image4344"
        preserveAspectRatio="none"
+       id="image4331"
+       x="798.61084"
+       y="1834.717" />
+    <image
+       sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/switch.png"
+       xlink:href="../Mi carpeta de Redes 2/img/switch.png"
+       width="87.900902"
        height="87.900902"
-       width="87.900902" />
+       preserveAspectRatio="none"
+       id="image4344"
+       x="763.97064"
+       y="1762.9115" />
     <rect
        style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.983482;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4321"
@@ -4257,40 +4255,40 @@
        y="1714.1586" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:7.47370148px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-1756.1157"
        y="780.15149"
        id="text4385"
-       sodipodi:linespacing="125%"
-       transform="matrix(0,-1,1,0,0,0)"><tspan
+       transform="rotate(-90)"><tspan
          sodipodi:role="line"
          id="tspan4387"
          x="-1756.1157"
-         y="780.15149">Piso 3</tspan></text>
+         y="780.15149"
+         style="font-size:7.473701px;line-height:1.25;font-family:sans-serif">Piso 3</tspan></text>
     <text
-       transform="matrix(0,-1,1,0,0,0)"
-       sodipodi:linespacing="125%"
+       transform="rotate(-90)"
        id="text4389"
        y="789.02649"
        x="-1755.9907"
-       style="font-style:normal;font-weight:normal;font-size:7.47370148px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          y="789.02649"
          x="-1755.9907"
          id="tspan4391"
-         sodipodi:role="line">Piso 2</tspan></text>
+         sodipodi:role="line"
+         style="font-size:7.473701px;line-height:1.25;font-family:sans-serif">Piso 2</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:7.47370148px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-1756.2925"
        y="799.0202"
        id="text4393"
-       sodipodi:linespacing="125%"
-       transform="matrix(0,-1,1,0,0,0)"><tspan
+       transform="rotate(-90)"><tspan
          sodipodi:role="line"
          id="tspan4395"
          x="-1756.2925"
-         y="799.0202">Piso 1</tspan></text>
+         y="799.0202"
+         style="font-size:7.473701px;line-height:1.25;font-family:sans-serif">Piso 1</tspan></text>
     <rect
        y="-781.49402"
        x="1731.0436"
@@ -4372,45 +4370,45 @@
        y="-111.74634"
        transform="matrix(0,-1,-1,0,0,0)" />
     <image
-       sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/notebook.png"
+       sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/notebook.png"
        xlink:href="../Mi carpeta de Redes 2/img/notebook.png"
-       y="-108.76798"
-       x="-243.29425"
-       id="image3634-0-5"
-       preserveAspectRatio="none"
-       height="20.547514"
+       transform="matrix(-0.00977676,-0.99995221,-0.99995536,0.00944906,0,0)"
        width="20.200214"
-       transform="matrix(-0.00977676,-0.99995221,-0.99995536,0.00944906,0,0)" />
-    <image
-       sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla.png"
-       xlink:href="../Mi carpeta de Redes 2/img/silla.png"
-       y="-107.36435"
-       x="-222.24977"
-       id="image3705-3-6"
+       height="20.547514"
        preserveAspectRatio="none"
-       height="16.96669"
-       width="16.679863"
-       transform="matrix(0,-1,-1,0,0,0)" />
+       id="image3634-0-5"
+       x="-243.29425"
+       y="-108.76798" />
     <image
-       sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla_empleado.jpg"
+       sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla.png"
+       xlink:href="../Mi carpeta de Redes 2/img/silla.png"
+       transform="matrix(0,-1,-1,0,0,0)"
+       width="16.679863"
+       height="16.96669"
+       preserveAspectRatio="none"
+       id="image3705-3-6"
+       x="-222.24977"
+       y="-107.36435" />
+    <image
+       sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla_empleado.jpg"
+       xlink:href="../Mi carpeta de Redes 2/img/silla_empleado.jpg"
+       transform="matrix(0,1,-1,0,0,0)"
+       y="122.88431"
+       x="216.91112"
+       id="image3847-2-2"
+       preserveAspectRatio="none"
+       height="22.793295"
+       width="23.798445" />
+    <image
+       sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla_empleado.jpg"
        xlink:href="../Mi carpeta de Redes 2/img/silla_empleado.jpg"
        width="23.798445"
        height="22.793295"
        preserveAspectRatio="none"
-       id="image3847-2-2"
-       x="216.91112"
-       y="122.88431"
-       transform="matrix(0,1,-1,0,0,0)" />
-    <image
-       sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla_empleado.jpg"
-       xlink:href="../Mi carpeta de Redes 2/img/silla_empleado.jpg"
-       transform="matrix(0,1,-1,0,0,0)"
-       y="79.245682"
-       x="216.07191"
        id="image6656-6"
-       preserveAspectRatio="none"
-       height="22.793295"
-       width="23.798445" />
+       x="216.07191"
+       y="79.245682"
+       transform="matrix(0,1,-1,0,0,0)" />
     <g
        id="g4665"
        transform="translate(-49.474112,0)">
@@ -4423,45 +4421,45 @@
          x="241.26126"
          y="-25.312014" />
       <image
-         sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/com.appsdmclick.coloresconectorrj45.png"
+         sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/com.appsdmclick.coloresconectorrj45.png"
          xlink:href="../Mi carpeta de Redes 2/img/com.appsdmclick.coloresconectorrj45.png"
-         width="1.8251779"
-         height="1.8251779"
-         preserveAspectRatio="none"
-         id="image4669"
+         y="256.80786"
          x="-7.8696938"
-         y="256.80786" />
+         id="image4669"
+         preserveAspectRatio="none"
+         height="1.8251779"
+         width="1.8251779" />
     </g>
     <image
-       sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla_empleado.jpg"
-       xlink:href="../Mi carpeta de Redes 2/img/silla_empleado.jpg"
-       width="23.798445"
-       height="22.793295"
-       preserveAspectRatio="none"
-       id="image6666-1"
-       x="216.07191"
-       y="33.089451"
-       transform="matrix(0,1,-1,0,0,0)" />
-    <image
-       sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla_empleado.jpg"
+       sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla_empleado.jpg"
        xlink:href="../Mi carpeta de Redes 2/img/silla_empleado.jpg"
        transform="matrix(0,1,-1,0,0,0)"
-       y="-16.423601"
+       y="33.089451"
        x="216.07191"
-       id="image6676-0"
+       id="image6666-1"
        preserveAspectRatio="none"
        height="22.793295"
        width="23.798445" />
     <image
-       sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/telefono.png"
-       xlink:href="../Mi carpeta de Redes 2/img/telefono.png"
-       transform="scale(-1,-1)"
-       y="-235.88924"
-       x="-90.397667"
-       id="image6689-3"
+       sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla_empleado.jpg"
+       xlink:href="../Mi carpeta de Redes 2/img/silla_empleado.jpg"
+       width="23.798445"
+       height="22.793295"
        preserveAspectRatio="none"
+       id="image6676-0"
+       x="216.07191"
+       y="-16.423601"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <image
+       sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/telefono.png"
+       xlink:href="../Mi carpeta de Redes 2/img/telefono.png"
+       width="9.79807"
        height="13.639459"
-       width="9.79807" />
+       preserveAspectRatio="none"
+       id="image6689-3"
+       x="-90.397667"
+       y="-235.88924"
+       transform="scale(-1,-1)" />
     <rect
        y="190.38742"
        x="-201.54346"
@@ -4503,23 +4501,23 @@
          id="rect4547"
          style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#b3b3b3;stroke-width:2.75972748;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <image
-         sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/router.jpg"
+         sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/router.jpg"
          xlink:href="../Mi carpeta de Redes 2/img/router.jpg"
-         y="271.0162"
-         x="-180.67184"
-         id="image4557"
-         preserveAspectRatio="none"
+         width="8.7470541"
          height="8.7470541"
-         width="8.7470541" />
-      <image
-         sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/switch.png"
-         xlink:href="../Mi carpeta de Redes 2/img/switch.png"
-         y="264.54764"
-         x="-173.25229"
-         id="image4697"
          preserveAspectRatio="none"
+         id="image4557"
+         x="-180.67184"
+         y="271.0162" />
+      <image
+         sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/switch.png"
+         xlink:href="../Mi carpeta de Redes 2/img/switch.png"
+         width="11.060506"
          height="11.060506"
-         width="11.060506" />
+         preserveAspectRatio="none"
+         id="image4697"
+         x="-173.25229"
+         y="264.54764" />
       <rect
          y="276.98471"
          x="-172.59531"
@@ -4571,14 +4569,14 @@
          x="241.26126"
          y="-25.312014" />
       <image
-         sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/com.appsdmclick.coloresconectorrj45.png"
+         sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/com.appsdmclick.coloresconectorrj45.png"
          xlink:href="../Mi carpeta de Redes 2/img/com.appsdmclick.coloresconectorrj45.png"
-         width="1.8251779"
-         height="1.8251779"
-         preserveAspectRatio="none"
-         id="image4681"
+         y="256.80786"
          x="-7.8696938"
-         y="256.80786" />
+         id="image4681"
+         preserveAspectRatio="none"
+         height="1.8251779"
+         width="1.8251779" />
     </g>
     <rect
        style="opacity:1;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#b3b3b3;stroke-width:1.01949239;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -4599,14 +4597,14 @@
          style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.64238787;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          transform="matrix(0,1,-1,0,0,0)" />
       <image
-         sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/com.appsdmclick.coloresconectorrj45.png"
+         sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/com.appsdmclick.coloresconectorrj45.png"
          xlink:href="../Mi carpeta de Redes 2/img/com.appsdmclick.coloresconectorrj45.png"
-         y="256.80786"
-         x="-7.8696938"
-         id="image4675"
-         preserveAspectRatio="none"
+         width="1.8251779"
          height="1.8251779"
-         width="1.8251779" />
+         preserveAspectRatio="none"
+         id="image4675"
+         x="-7.8696938"
+         y="256.80786" />
     </g>
     <rect
        y="258.90845"
@@ -4640,14 +4638,14 @@
          style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.64238787;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          transform="matrix(0,1,-1,0,0,0)" />
       <image
-         sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/com.appsdmclick.coloresconectorrj45.png"
+         sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/com.appsdmclick.coloresconectorrj45.png"
          xlink:href="../Mi carpeta de Redes 2/img/com.appsdmclick.coloresconectorrj45.png"
-         y="256.80786"
-         x="-7.8696938"
-         id="image4658"
-         preserveAspectRatio="none"
+         width="1.8251779"
          height="1.8251779"
-         width="1.8251779" />
+         preserveAspectRatio="none"
+         id="image4658"
+         x="-7.8696938"
+         y="256.80786" />
     </g>
     <rect
        transform="matrix(0,1,-1,0,0,0)"
@@ -4793,14 +4791,14 @@
              id="rect5444-5-6"
              style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.96611905;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
           <image
-             sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla_empleado.jpg"
+             sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla_empleado.jpg"
              xlink:href="../Mi carpeta de Redes 2/img/silla_empleado.jpg"
-             width="21.310453"
-             height="23.189428"
-             preserveAspectRatio="none"
-             id="image5448-7-7"
+             y="417.61023"
              x="887.6629"
-             y="417.61023" />
+             id="image5448-7-7"
+             preserveAspectRatio="none"
+             height="23.189428"
+             width="21.310453" />
           <rect
              transform="matrix(-0.00392539,-0.9999923,0.9999892,-0.00464812,0,0)"
              y="883.82465"
@@ -4818,14 +4816,14 @@
              ry="5.2134547" />
         </g>
         <image
-           sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/com.appsdmclick.coloresconectorrj45.png"
+           sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/com.appsdmclick.coloresconectorrj45.png"
            xlink:href="../Mi carpeta de Redes 2/img/com.appsdmclick.coloresconectorrj45.png"
-           width="3.6891422"
-           height="3.6891422"
-           preserveAspectRatio="none"
-           id="image4261-6"
+           y="275.08005"
            x="915.94189"
-           y="275.08005" />
+           id="image4261-6"
+           preserveAspectRatio="none"
+           height="3.6891422"
+           width="3.6891422" />
       </g>
       <rect
          y="302.32101"
@@ -4843,14 +4841,14 @@
        x="912.54041"
        y="339.04108" />
     <image
-       sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/com.appsdmclick.coloresconectorrj45.png"
+       sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/com.appsdmclick.coloresconectorrj45.png"
        xlink:href="../Mi carpeta de Redes 2/img/com.appsdmclick.coloresconectorrj45.png"
-       y="397.54608"
-       x="905.47333"
-       id="image4261"
-       preserveAspectRatio="none"
+       width="3.6891422"
        height="3.6891422"
-       width="3.6891422" />
+       preserveAspectRatio="none"
+       id="image4261"
+       x="905.47333"
+       y="397.54608" />
     <g
        id="g4499"
        transform="matrix(0.952799,0,0,0.17497342,42.796187,339.05718)">
@@ -4871,25 +4869,25 @@
          style="opacity:1;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:0.61575848;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <image
-       sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/router.jpg"
+       sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/router.jpg"
        xlink:href="../Mi carpeta de Redes 2/img/router.jpg"
-       y="-898.98016"
-       x="452.41406"
-       id="image4557-1"
-       preserveAspectRatio="none"
-       height="5.0123649"
+       transform="matrix(0,1,-1,0,0,0)"
        width="5.0123649"
-       transform="matrix(0,1,-1,0,0,0)" />
-    <image
-       sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/switch.png"
-       xlink:href="../Mi carpeta de Redes 2/img/switch.png"
-       y="896.21625"
-       x="-463.09213"
-       id="image4697-2"
+       height="5.0123649"
        preserveAspectRatio="none"
-       height="6.3380527"
+       id="image4557-1"
+       x="452.41406"
+       y="-898.98016" />
+    <image
+       sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/switch.png"
+       xlink:href="../Mi carpeta de Redes 2/img/switch.png"
+       transform="matrix(0,-1,1,0,0,0)"
        width="6.3380527"
-       transform="matrix(0,-1,1,0,0,0)" />
+       height="6.3380527"
+       preserveAspectRatio="none"
+       id="image4697-2"
+       x="-463.09213"
+       y="896.21625" />
     <rect
        style="opacity:1;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:0.34203595;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4700-7"
@@ -4941,16 +4939,16 @@
          y="-777.25238" />
     </g>
     <image
-       sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/switch.png"
+       sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/switch.png"
        xlink:href="../Mi carpeta de Redes 2/img/switch.png"
-       y="445.8808"
-       x="887.1109"
-       id="image4451"
-       preserveAspectRatio="none"
-       height="9.5219851"
-       width="9.5219851"
+       inkscape:transform-center-y="1.5785236"
        inkscape:transform-center-x="-1.2730053"
-       inkscape:transform-center-y="1.5785236" />
+       width="9.5219851"
+       height="9.5219851"
+       preserveAspectRatio="none"
+       id="image4451"
+       x="887.1109"
+       y="445.8808" />
     <rect
        y="893.20721"
        x="-454.1636"
@@ -5104,14 +5102,14 @@
        id="rect4373"
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.176718;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <image
-       sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/silla_empleado.jpg"
+       sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/silla_empleado.jpg"
        xlink:href="../Mi carpeta de Redes 2/img/silla_empleado.jpg"
-       y="751.67743"
-       x="1093.2202"
-       id="image5153-6"
-       preserveAspectRatio="none"
+       width="25.253994"
        height="25.253994"
-       width="25.253994" />
+       preserveAspectRatio="none"
+       id="image5153-6"
+       x="1093.2202"
+       y="751.67743" />
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.73428929;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect5159-6"
@@ -5121,17 +5119,17 @@
        y="1087.4015"
        transform="matrix(-0.0042715,-0.99999088,0.99999088,-0.0042715,0,0)" />
     <image
-       sodipodi:absref="/home/gonzalo/Escritorio/Redes2/../Mi carpeta de Redes 2/img/telefono.png"
+       sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/telefono.png"
        xlink:href="../Mi carpeta de Redes 2/img/telefono.png"
-       inkscape:transform-center-y="-28.710938"
-       inkscape:transform-center-x="-25"
-       transform="matrix(0.99999639,-0.0026857,0.0026857,0.99999639,0,0)"
-       width="13.627943"
-       height="13.627943"
-       preserveAspectRatio="none"
-       id="image5163-6"
+       y="734.99719"
        x="1116.5125"
-       y="734.99719" />
+       id="image5163-6"
+       preserveAspectRatio="none"
+       height="13.627943"
+       width="13.627943"
+       transform="matrix(0.99999639,-0.0026857,0.0026857,0.99999639,0,0)"
+       inkscape:transform-center-x="-25"
+       inkscape:transform-center-y="-28.710938" />
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.81114459;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4385"
@@ -5210,23 +5208,23 @@
        y="-1198.7965"
        transform="matrix(0,1,-1,0,0,0)" />
     <image
-       sodipodi:absref="/home/gonzalo/Escritorio/Mi carpeta de Redes 2/img/com.appsdmclick.coloresconectorrj45.png"
-       y="730.23914"
-       x="1261.0103"
-       id="image4159"
-       xlink:href="file:///home/gonzalo/Escritorio/Mi%20carpeta%20de%20Redes%202/img/com.appsdmclick.coloresconectorrj45.png"
-       preserveAspectRatio="none"
-       height="5.6668029"
-       width="5.6668029" />
-    <image
+       sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/com.appsdmclick.coloresconectorrj45.png"
+       xlink:href="../Mi carpeta de Redes 2/img/com.appsdmclick.coloresconectorrj45.png"
        width="5.6668029"
        height="5.6668029"
        preserveAspectRatio="none"
-       xlink:href="file:///home/gonzalo/Escritorio/Mi%20carpeta%20de%20Redes%202/img/com.appsdmclick.coloresconectorrj45.png"
-       id="image4162"
-       x="1111.0103"
+       id="image4159"
+       x="1261.0103"
+       y="730.23914" />
+    <image
+       sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/com.appsdmclick.coloresconectorrj45.png"
+       xlink:href="../Mi carpeta de Redes 2/img/com.appsdmclick.coloresconectorrj45.png"
        y="730.23914"
-       sodipodi:absref="/home/gonzalo/Escritorio/Mi carpeta de Redes 2/img/com.appsdmclick.coloresconectorrj45.png" />
+       x="1111.0103"
+       id="image4162"
+       preserveAspectRatio="none"
+       height="5.6668029"
+       width="5.6668029" />
     <rect
        style="opacity:1;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:#b3b3b3;stroke-width:2.75972748;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4547-9-5-3"
@@ -5244,14 +5242,14 @@
        y="-732.02509"
        transform="scale(-1,-1)" />
     <image
-       sodipodi:absref="/home/gonzalo/Escritorio/Mi carpeta de Redes 2/img/router.jpg"
-       y="772.76025"
-       x="1194.7286"
-       id="image4212"
-       xlink:href="file:///home/gonzalo/Escritorio/Mi%20carpeta%20de%20Redes%202/img/router.jpg"
-       preserveAspectRatio="none"
+       sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/router.jpg"
+       xlink:href="../Mi carpeta de Redes 2/img/router.jpg"
+       width="1.77494"
        height="1.77494"
-       width="1.77494" />
+       preserveAspectRatio="none"
+       id="image4212"
+       x="1194.7286"
+       y="772.76025" />
     <rect
        style="opacity:1;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:0.24451046;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4485-6"
@@ -5269,16 +5267,16 @@
        y="-1196.0436"
        transform="matrix(0,1,-1,0,0,0)" />
     <image
-       sodipodi:absref="/home/gonzalo/Escritorio/Mi carpeta de Redes 2/img/switch.png"
-       y="768.5343"
-       x="1192.7089"
-       id="image4253"
-       xlink:href="file:///home/gonzalo/Escritorio/Mi%20carpeta%20de%20Redes%202/img/switch.png"
-       preserveAspectRatio="none"
-       height="5.3120151"
-       width="5.3120151"
+       sodipodi:absref="/home/gonzalo/Desktop/Redes2/../Mi carpeta de Redes 2/img/switch.png"
+       xlink:href="../Mi carpeta de Redes 2/img/switch.png"
+       inkscape:transform-center-y="-0.059468601"
        inkscape:transform-center-x="0.32701948"
-       inkscape:transform-center-y="-0.059468601" />
+       width="5.3120151"
+       height="5.3120151"
+       preserveAspectRatio="none"
+       id="image4253"
+       x="1192.7089"
+       y="768.5343" />
     <rect
        style="opacity:1;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:0.25535005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4443-7-1"
